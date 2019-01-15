@@ -1,15 +1,21 @@
-from selenium import webdriver
 
-#Following are optional required
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
-from selenium.common.exceptions import NoSuchElementException
+import tensorflow as tf
+import keras
+import numpy as np
 
-#baseurl = "https://easypronunciation.com/en/russian-phonetic-transcription-converter#phonetic_transcription"
-#mydriver = webdriver.Firefox()
-#mydriver.get(baseurl)
+# ˈ strong accent counts 2
+# ˌ soft accent counts 1.5
+# () optional counts 0.5
 
-file = open("ru-nouns.txt", "r+") 
-lines = [line.replace("masculine", "m").replace("feminine", "f").replace("neuter", "n") for line in file]
-text = "".join(lines)
-file.write(text)
+chars_ipa = "t͡ɕɪlɐˈvʲekɡorməʊadɛsʐɨznuɔbʃɫɵiːäʂɯ̞.äjpʒɑɑæ⁽⁾xf()ɤʉˌ"
+chars_vowels_ipa = "ɪɐeoəaɛɨuɔɵiä.äɑɑæ"
+
+file_nouns = open("ru-nouns.txt", "r+") 
+chars = ""
+
+for line in file_nouns:
+    noun_ipa = line.split()[1]
+    chars_new = [char for char in noun_ipa if char not in chars]
+    chars += "".join(chars_new)
+
+print(chars)
