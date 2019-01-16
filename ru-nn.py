@@ -31,10 +31,10 @@ for line in file_nouns:
     list_out.append(out)
 
 model = keras.Sequential()
-model.add(keras.layers.Dense(len_in, activation=tf.nn.sigmoid))
+model.add(keras.layers.Dense(len_in))
 model.add(keras.layers.Dense(int(len_in + len_out/2), activation=tf.nn.relu))
 model.add(keras.layers.Dense(len_out, activation=tf.nn.softmax))
 
 model.compile(optimizer=tf.train.AdamOptimizer(), loss='mean_squared_error', metrics=['accuracy'])
 
-history = model.fit(np.array(list_in), np.array(list_out), epochs=1000, verbose=1)
+history = model.fit(np.array(list_in), np.array(list_out), epochs=75, verbose=1)
