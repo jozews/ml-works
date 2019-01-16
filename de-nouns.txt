@@ -1,1993 +1,1605 @@
-Die Zeit
-Der Mann
-Die Hand
-Der Tag
-Der Weg
-Das Auge
-Das Ding
-Der Kopf
-Das Jahr
-Das Zimmer
-Die Tür
-Die Frau
-Das Gesicht
-Die Mutter
-Das Volk
-Die Nacht
-Das Haus
-Der Vater
-Das Leben
-Der Rücken
-Die Stimme
-Das Mädchen
-Der Ort
-Der Junge
-Das Auto
-Die Seite
-Der Arm
-Das Kind
-Das Wort
-Der Moment
-Das Haar
-Der Fuß
-Das Wasser
-Das Licht
-Die Welt
-Der Name
-Der Freund
-Das Fenster
-Der Körper
-Der Tisch
-Der Morgen
-Das Bett
-Die Mauer
-Die Straße
-Die Schule
-Die Luft
-Der Boden
-Die Stunde
-Das Ende
-Die Familie
-Der Kerl
-Die Art
-Die Minute
-Die Geschichte
-Der Gott
-Die Woche
-Die Arbeit
-Die Schulter
-Der Teil
-Der Geist
-Das Buch
-Der Finger
-Der Mund
-Das Kind
-Das Glas
-Der Baum
-Der Klang
-Die Linie
-Die Ehefrau
-Das Herz
-Das Geld
-Das Telefon
-Das Aussehen
-Das Bein
-Der Stuhl
-Das Büro
-Der Bruder
-Die Frage
-Die Stadt
-Der Monat
-Das Baby
-Das Zuhause
-Der Hund
-Die Straße
-Die Idee
-Die Küche
-Das Ganze
-Der Sohn
-Der Beruf
-Das Papier
-Die Schwester
-Das Lächeln
-Der Punkt
-Der Gedanke
-Die Liebe
-Die Stadt
-Der Tod
-Der Boden
-Die Anderen
-Das Feuer
-Der Schritt
-Das Blut
-Die Tatsache
-Der Atem
-Die Lippe
-Die Sonne
-Das Gebäude
-Die Anzahl
-Der Ehemann
-Das Elternteil
-Die Ecke
-Das Problem
-Das Ehepaar
-Die Tochter
-Der Beutel
-Die Hölle
-Die Rast
-Das Geschäft
-Der Himmel
-Die Kiste
-Die Person
-Der Grund
-Das Recht
-Die Haut
-Der Vater
-Der Fall
-Das Stück
-Der Doktor
-Die Ecke
-Die Mama
-Das Bild
-Der Sinn
-Das Ohr
-Der Zweite
-Die Dame
-Der Hals
-Der Wind
-Der Schreibtisch
-Die Waffe
-Der Stein
-Der Kaffee
-Das Schiff
-Die Erde
-Das Essen
-Das Pferd
-Das Feld
-Der Krieg
-Der Nachmittag
-Die Sir
-Der Raum
-Der Abend
-Der Brief
-Die Bar
-Der Traum
-Die Wohnung
-Die Brust
-Das Spiel
-Der Sommer
-Der Grund
-Die Stille
-Die Spitze
-Der Fels
-Die Macht
-Die Kleider
-Das Schild
-Die Aufmerksamkeit
-Die Musik
-Der Staat
-Die Tasche
-Das Abendessen
-Die Halle
-Der Schmerz
-Das Alter
-Der Fluss
-Die Chance
-Die Nase
-Der Schatten
-Die Polizei
-Das Gedächtnis
-Die Farbe
-Das Knie
-Das Holz
-Das Hemd
-Die Party
-Das Land
-Der Lkw
-Der Zahn
-Die Rechnung
-Die Szene
-Das Land
-Der Stern
-Der Vogel
-Das Schlafzimmer
-Der Onkel
-Die Art
-Die Gruppe
-Die Wahrheit
-Die Schwierigkeiten
-Die Menge
-Der Bahnhof
-Die Reiß
-Die Klasse
-Das Meer
-Das Tier
-Das Zentrum
-Das Gefühl
-Das Geschäft
-Der Berg
-Die Nachrichten
-Der Schuh
-Die Katze
-Der Bildschirm
-Die Flasche
-Der Anruf
-Die Lebenden
-Die Wange
-Der Schüler
-Der Ball
-Die Sehenswürdigkeit
-Der Hügel
-Das Unternehmen
-Die Kirche
-Der Regen
-Der Anzug
-Der Eine
-Die Richtung
-Der Wille
-Der Hals
-Die Mitte
-Die Antwort
-Das Zeug
-Das Krankenhaus
-Die Kamera
-Das Kleid
-Die Karte
-Der Hof
-Die Dunkelheit
-Die Scheiße
-Das Bild
-Die Maschine
-Die Distanz
-Das Gebiet
-Der Erzähler
-Das Eis
-Der Schnee
-Die Notiz
-Der Spiegel
-Der König
-Die Angst
-Der Offizier
-Das Loch
-Der Schuss
-Der Wächter
-Die Unterhaltung
-Das Boot
-Das System
-Die Pflege
-Die Bit
-Der Film
-Der Knochen
-Die Seite
-Der Kapitän
-Die Tante
-Die Dunkelheit
-Die Kontrolle
-Das Getränk
-Das Hotel
-Der Mantel
-Die Treppen
-Die Bestellung
-Die Rose
-Der Fehl
-Der Hut
-Das Gold
-Die Zigarette
-Die Wolke
-Die Aussicht
-Der Fahrer
-Die Tasse
-Die Figur
-Der Ausdruck
-Der Pfad
-Der Schlüssel
-Der Computer
-Die Blume
-Der Ring
-Das Bad
-Das Metall
-Der Mond
-Das Lied
-Der Soldat
-Das Radio
-Die Geschichte
-Die Welle
-Der Plan
-Das College
-Der Fisch
-Der Garten
-Der Zug
-Das Geschäft
-Der Polizist
-Die Kunst
-Das Bier
-Der Nord
-Die Insel
-Der Bus
-Der Geruch
-Das Geräusch
-Die Mama
-Der Park
-Der Süden
-Das Paar
-Der Herr
-Der Teller
-Die Jacke
-Die Hilfe
-Der Papa
-Das Gras
-Die Bank
-Die Hitze
-Der Schlaf
-Das Gehirn
-Der Service
-Die Reise
-Der Beat
-Das Messer
-Der Platz
-Die Nachricht
-Die Note
-Der Lehrer
-Der Blick
-Das Dorf
-Der Winter
-Die Front
-Das Gesetz
-Die Oberfläche
-Die Bank
-Das Team
-Das Maximum
-Die Position
-Der Bauch
-Die Wende
-Der Westen
-Das Mittagessen
-Der Wechsel
-Die Kreatur
-Die Seele
-Das Blatt
-Die Show
-Die Gate
-Die Palme
-Der Kunststoff
-Die Kraft
-Der Strand
-Der Präsident
-Die Form
-Der Rauch
-Das Rad
-Das Silber
-Das Dach
-Das Gewicht
-Die Zunge
-Der Tee
-Die Strecke
-Der Winkel
-Die Form
-Der Ton
-Der Kreis
-Der Frühling
-Die Vorhalle
-Das Blatt
-Das Mitglied
-Das Schwimmbecken
-Das Bedürfnis
-Die Hoffnung
-Der See
-Die Brust
-Die Überraschung
-Die Interesse
-Der Boden
-Der Geist
-Der Block
-Die Sprache
-Die Brücke
-Der Staub
-Die Zelle
-Der Wein
-Das Boot
-Die Wahl
-Die Reihe
-Das Gespräch
-Das Flugzeug
-Die Uhr
-Die Information
-Die Großmutter
-Der Flügel
-Die Bob
-Der Club
-Der Meister
-Die Gnade
-Der Wald
-Die Größe
-Der Satz
-Die Ehe
-Die Stirn
-Der Sturm
-Die Türöffnung
-Die Situation
-Der Zähler
-Der Nachbar
-Das Foto
-Die Bühne
-Das Treffen
-Die Krankenschwester
-Die Sicherheit
-Die Waffe
-Das Ereignis
-Die Decke
-Der Motor
-Das Geschenk
-Das Restaurant
-Die Tafel
-Der Flur
-Die Armee
-Der Aufwand
-Der Osten
-Der Agent
-Die Zukunft
-Die Hose
-Das Leder
-Der Flug
-Das Geschlecht
-Das Gericht
-Der Kurs
-Der Dreck
-Das Ei
-Das Kinn
-Der Fremde
-Die Freude
-Das Detail
-Die Besatzung
-Der Herbst
-Der Gast
-Das Erlebnis
-Der Witz
-Der Sand
-Die Faust
-Die Aktion
-Das Wandern
-Die Hochzeit
-Der Deal
-Die Natur
-Der Planet
-Der Cousin
-Die Bewegung
-Das Fleisch
-Der Datensatz
-Das Camp
-Die Zeitung
-Der Strahl
-Der Mensch
-Das Sofa
-Die Bewegung
-Der Großvater
-Die Fotografie
-Das Geheimnis
-Die Schönheit
-Das Vorhandensein
-Die Glocke
-Die Volks
-Der Knopf
-Die Liste
-Das Level
-Das Datum
-Das Thema
-Der Unterschied
-Die Pause
-Der Van
-Die Klinge
-Das Fernsehen
-Die Titelseite
-Die Vergangenheit
-Der Bauernhof
-Die Runden
-Die Band
-Der Anwalt
-Das Magazin
-Der Ast
-Der Rahmen
-Das Deck
-Der Effekt
-Der Tanz
-Die Sicht
-Das Gespenst
-Der Esel
-Der Charakter
-Der Blick
-Das Park
-Das Frühstück
-Die Geste
-Das Glück
-Die Decke
-Das Gas
-Der Korridor
-Der Professor
-Das Spiel
-Der Fehler
-Die Universität
-Der Ozean
-Das Jahrhundert
-Der Honig
-Der Stapel
-Die Schale
-Die Basis
-Der Zaun
-Die Regel
-Das Gelächter
-Die Wut
-Der Schweiß
-Der Unfall
-Das Wetter
-Die Entscheidung
-Der Engel
-Die Stärke
-Das Huhn
-Die Studium
-Das Band
-Das Handgelenk
-Der Halt
-Die Hüfte
-Die Regierung
-Der Bauch
-Die Königin
-Der Bericht
-Der Schweif
-Die Pflanze
-Die Flamme
-Der Himmel
-Der Gürtel
-Die Nachbarschaft
-Die Energie
-Das Grün
-Das Viertel
-Der Feind
-Die Bewegung
-Der Eingang
-Die Bibliothek
-Der Verfasser
-Der Frieden
-Die Berührung
-Der Topf
-Der Typ
-Der Grund
-Das Seil
-Der Muskel
-Das Gemälde
-Die Gardine
-Die Mahlzeit
-Der Akt
-Der Wolf
-Die Kajüte
-Die Ladung
-Die Uhr
-Der Passagier
-Der Kumpel
-Das Medikament
-Die Verwendung
-Die Bank
-Der Verkehr
-Das Relief
-Die Kappe
-Das Rudel
-Das Wochenende
-Der Stand
-Der Aufzug
-Der Geburtstag
-Das Bügeleisen
-Das Fleisch
-Die Augenbraue
-Die Antwort
-Die Geschwindigkeit
-Die Absicht
-Der Rock
-Das Quadrat
-Die Fahrt
-Der Artikel
-Das Englisch
-Der Turm
-Der Kampf
-Der Film
-Das Rennen
-Der Schock
-Die Sektion
-Die Methode
-Das Schwert
-Der Stock
-Die Datei
-Das Brot
-Das Öl
-Die Kette
-Die Abteilung
-Das Projekt
-Der Mord
-Der Bär
-Der Test
-Der Besuch
-Die Milch
-Der Chef
-Der Ellbogen
-Das Verlangen
-Der Patient
-Das Grinsen
-Der Liebhaber
-Der Preis
-Die Karte
-Das Wissen
-Der Anfang
-Die Kälte
-Der Schrank
-Die Morgendämmerung
-Der Tempel
-Der Spaß
-Die Pflicht
-Die Übung
-Die Ferse
-Das Tal
-Der Kampf
-Das Kabel
-Die Jeans
-Der Kuss
-Der Kiefer
-Die Lauf
-Der Halt
-Das Verhältnis
-Das Objekt
-Der Angriff
-Das Gericht
-Die Autobahn
-Die Schattierung
-Das Verbrechen
-Das Weiß
-Der Partner
-Der Priester
-Der Rasen
-Das Lachen
-Der Kofferraum
-Das Weinen
-Das Programm
-Die Fahrt
-Das Regal
-Der Gentleman
-Das Sein
-Der Stahl
-Der Bürgersteig
-Die Uniform
-Das Muster
-Der Beweis
-Der Spieler
-Der Roman
-Das Kissen
-Die Lampe
-Die Schublade
-Die Gefahr
-Der Detektiv
-Die Instant
-Das Denken
-Der Riss
-Das Gebet
-Das Handtuch
-Der Handschuh
-Die Bucht
-Das Publikum
-Die Dose
-Die Bedingung
-Der Pfad
-Die Taille
-Der Druck
-Das Telefon
-Das Waschbecken
-Die Rückkehr
-Die Brise
-Der Geschmack
-Der Fehler
-Der Strom
-Das Ergebnis
-Der Autor
-Das Trinkgeld
-Die Dusche
-Die Zehe
-Die Jahreszeit
-Die Hälfte
-Der Dummkopf
-Der Tunnel
-Der Klient
-Die Garage
-Die Mission
-Der Chef
-Die Kugel
-Der Markt
-Der Verlust
-Die Reihe
-Der Stift
-Der Begriff
-Das Gedicht
-Der Prinz
-Der Ton
-Das Schloss
-Die Realität
-Die Schlange
-Der Apfel
-Die Maske
-Die Kunden
-Die Geburt
-Die Pause
-Das Wunder
-Das Sonnenlicht
-Der Panzer
-Das Personal
-Die Lüge
-Der Glaube
-Die Ehre
-Die Creme
-Das Wohl
-Das Opfer
-Die Möglichkeit
-Der Kontakt
-Die Stimmung
-Der Daumen
-Das Lesen
-Der Spaß
-Die Kerze
-Die Höhle
-Die Post
-Das Gefängnis
-Die Emotion
-Der Führer
-Der Grad
-Die Eigenschaft
-Das Ticket
-Das Alien
-Der Unterricht
-Die Wüste
-Der Schnitt
-Die Unordnung
-Die Warnung
-Das Märchen
-Das Begräbnis
-Das Taxi
-Der Reporter
-Das Geschenk
-Das Theater
-Die Länge
-Der Schlamm
-Die Wissenschaft
-Der Fall
-Die Schnur
-Die Rede
-Die Kopie
-Die Kuh
-Der Arbeiter
-Der Oberschenkel
-Das Labor
-Die Rolle
-Das Obst
-Der Patch
-Die Seide
-Der Buck
-Die Ziegel
-Das Gewehr
-Die Karriere
-Das Thema
-Die Gelegenheit
-Der Direktor
-Das Monster
-Das Fahrzeug
-Die Gasse
-Die Hülse
-Das Grab
-Der Busch
-Der Speisesaal
-Die Eröffnung
-Der Zwilling
-Die Scheune
-Das Pfund
-Der Standort
-Der Blitz
-Der Richter
-Die Masse
-Der Prozess
-Das Band
-Der Geldbeutel
-Das Rohr
-Der Drache
-Der Horizont
-Die Schale
-Der Umschlag
-Die Prüfung
-Die Erwachsene
-Der Notfall
-Das Material
-Die Kindheit
-Die Angewohnheit
-Der Künstler
-Die Adresse
-Der Duft
-Das Universum
-Das Kopfnicken
-Die Muschel
-Die Gemeinde
-Der Anfang
-Die Wunde
-Die Maus
-Der Pilot
-Die Klasse
-Das Video
-Der Korb
-Der Wagen
-Der Versuch
-Das Sofa
-Der Kuchen
-Der Kerl
-Die Affäre
-Die Küste
-Die Allgemeine
-Der Ursprung
-Die Robe
-Die Sorge
-Die Presse
-Die Ratte
-Die Gesellschaft
-Der Stil
-Die Kreis
-Der Befehl
-Der Besucher
-Das Model
-Die Kammer
-Das Biest
-Das Bündel
-Der Hintergrund
-Die Einheit
-Die Möbel
-Der Nagel
-Der Schrei
-Die Eigenschaft
-Die Ausrüstung
-Die Auffahrt
-Der Griff
-Das Rohr
-Die Asche
-Der Fan
-Die Meinung
-Die Daten
-Die Verbindung
-Der Trick
-Das Mysterium
-Die Periode
-Das Schreiben
-Der Horror
-Die Süßigkeit
-Die Bitch
-Die Gesundheit
-Der Geschäftsführer
-Die Sicherheit
-Die Höhe
-Die Erscheinung
-Der Seufzer
-Die Mine
-Die Kleidung
-Die Reaktion
-Die Quelle
-Das Ich
-Die Pistole
-Der Flughafen
-Der Held
-Das Versprechen
-Der Bogen
-Das Zelt
-Der Messestand
-Das Geld
-Die Straße
-Das TShirt
-Der Teppich
-Der Keller
-Die Freundin
-Der Bart
-Die Stirn
-Der Bildschirm
-Das Signal
-Der Diener
-Das Flüstern
-Der Zweifel
-Das Konto
-Die Magie
-Die Hank
-Das Glied
-Der Bastard
-Der Schädel
-Der Satz
-Der Kragen
-Das Horn
-Die Eiche
-Der Knöchel
-Die Puppe
-Das Sandwich
-Das Rotkehlchen
-Die Justiz
-Der Stolz
-Die Jugend
-Der Sekretär
-Die Forschung
-Der Sport
-Die Aufgabe
-Der Zuschuss
-Der Sheriff
-Die Mitternachts
-Der Chip
-Die Theorie
-Der Wecker
-Die Sammlung
-Das Kreuz
-Die Kiefer
-Die Generation
-Die Autorität
-Die Papa
-Die Reise
-Die Perle
-Die Toilette
-Der Mörder
-Das Werkzeug
-Die Medizin
-Der Zucker
-Die Prinzessin
-Das Argument
-Die Klippe
-Der Wagen
-Der Kristall
-Die Bohne
-Der Käfig
-Die Schokolade
-Die Küste
-Das Jahrzehnt
-Die Bedeutung
-Das Getriebe
-Der Koffer
-Die Operation
-Das Atem
-Die Rolle
-Die Version
-Der Gefangene
-Das Match
-Der Strahl
-Die Burg
-Der Ansturm
-Die Fahrspur
-Die Bekleidung
-Der Pol
-Die Freiheit
-Das Können
-Die Leidenschaft
-Die Aktivität
-Die Platform
-Das Salz
-Das Fahrrad
-Der Stapel
-Der Begleiter
-Das Schicksal
-Die Wut
-Die Versorgung
-Der Wal
-Das Schwein
-Der Hase
-Der Gang
-Der Bildschirm
-Der Helm
-Der Respekt
-Die Aufregung
-Die Lobby
-Der Freund
-Das Fell
-Der Bereich
-Die Dick
-Der Code
-Das Kapitel
-Die Reflexion
-Die Post
-Der Flug
-Das Kabinett
-Das Spielzeug
-Die Baseball
-Das Innere
-Die Geschwindigkeit
-Der Griff
-Die Führung
-Die Summe
-Der Nerv
-Der Schrecken
-Der Pullover
-Die Qualität
-Der Jäger
-Die Farbe
-Die Buster
-Die Baumwolle
-Der Wachtmeister
-Der Kredit
-Der Schlag
-Der Teufel
-Die Bedrohung
-Der Erfolg
-Das Kabel
-Die Pfanne
-Der Angestellte
-Das Messgerät
-Die Schande
-Die Nadel
-Die Lunge
-Der Krieger
-Der Umstand
-Das Studio
-Die Panik
-Der Mangel
-Der Bauer
-Der Akzent
-Die Bombe
-Die Platte
-Die Fähigkeit
-Das Glück
-Der Sieger
-Die Feder
-Die Oma
-Das Glühen
-Das Verhalten
-Der Durchgang
-Die Slave
-Der Leutnant
-Der Lauf
-Die Wärme
-Der Eindruck
-Der Maurer
-Die Braut
-Das Paket
-Der Nebel
-Das Gehen
-Die Balance
-Die Socke
-Der Roboter
-Die Kartoffel
-Der Gegenstand
-Das Bad
-Der Diamant
-Die Leiche
-Die Erklärung
-Die Struktur
-Der Ausgang
-Das Pad
-Der Herd
-Das Blaue
-Die Amerikaner
-Der Rubin
-Der Blitz
-Die Grube
-Der Oberst
-Das Dock
-Der Bach
-Der Ratschlag
-Der Tourist
-Die Trauer
-Die Verteidigung
-Der Biss
-Das Museum
-Die Gunst
-Das Abendessen
-Der Komfort
-Der Dekan
-Der Wert
-Der Marsch
-Das Anwesen
-Der Poet
-Der Palast
-Die Suppe
-Die Nation
-Das Gefäss
-Der Ständige
-Der Sack
-Der Dämon
-Die Konferenz
-Der Saft
-Die Verantwortung
-Der Pinsel
-Die Route
-Der Käse
-Die Haube
-Die Ente
-Der Heilige
-Der Pass
-Das Ziel
-Die Orange
-Die Kultur
-Die Reise
-Der Kommandant
-Der Haken
-Der Nebel
-Das Training
-Die Suche
-Die Münze
-Das Wunder
-Der Vorteil
-Der Austausch
-Die Fiktion
-Der Teich
-Der Assistent
-Das Design
-Die Angel
-Die Piste
-Der Graf
-Der Kommentar
-Der Kellner
-Der Lebensmittel
-Die Leiter
-Die Kurve
-Das Volumen
-Das Risiko
-Der Albtraum
-Die Existenz
-Die Spur
-Die Krankheit
-Die Unterstützung
-Der Zeuge
-Die Aktie
-Das Gerät
-Die Landschaft
-Der Urlaub
-Das Ass
-Das Klavier
-Die Eingeweide
-Das Talent
-Die Phantasie
-Die Schwarze
-Der Reed
-Der Deckel
-Der Hinweis
-Der Wanderer
-Die Kälte
-Die Studie
-Das Interview
-Der Ansatz
-Die Narbe
-Die Mode
-Der Kanal
-Die Tritt
-Der Aufnehmer
-Der Habicht
-Der Anhänger
-Die Statue
-Die Pille
-Der Käfer
-Der Eimer
-Die Arten
-Die Kolumne
-Der Schaden
-Das Instrument
-Der Hafen
-Die Schicht
-Der Streifen
-Der Müll
-Die Rippe
-Das Notebook
-Der Mais
-Das Angebot
-Die Zeichnung
-Die Aussage
-Die Intelligenz
-Die Entschuldigung
-Die Landung
-Der Urheberrechts
-Die Stange
-Die Fantasie
-Die Neugier
-Das Kleid
-Die Grenze
-Die Poesie
-Die Firma
-Der Aufgang
-Die Handvoll
-Die China
-Die Franzosen
-Die Durchschnitts
-Das Reh
-Die Druck
-Die Schiene
-Die Rate
-Der Mut
-Die Ankunft
-Der Wunsch
-Der Grat
-Der Idiot
-Der Bulle
-Die Saat
-Der Fortschritt
-Das Gefühl
-Die Shorts
-Der Bürger
-Der Müll
-Das Protokoll
-Die Geduld
-Die Fledermaus
-Der Fußball
-Die Routine
-Die Explosion
-Der Inhalt
-Der Wissenschaftler
-Das Versagen
-Die Sünde
-Der Hintern
-Die Verwirrung
-Das Verständnis
-Der Handel
-Der Kühlschrank
-Der Herr
-Die Taschenlampe
-Das Internet
-Der Seemann
-Die Attitüde
-Die Schuld
-Das Weinen
-Die Sip
-Die Reise
-Der Keks
-Die Flucht
-Die Anleitung
-Das Gewebe
-Der Marmor
-Der Blick
-Die Dämmerung
-Die Hütte
-Der Affe
-Das Makeup
-Die Doc
-Die Bluse
-Der Rhythmus
-Der Dampf
-Der Satz
-Die Mutter
-Der Bleistift
-Der Koch
-Die Flagge
-Der Trainer
-Die Schaukel
-Der Lautsprecher
-Der Bolzen
-Das Fett
-Der Teppich
-Die Klopf
-Der Zauber
-Das Taxi
-Die Runde
-Der Strohhalm
-Die Luke
-Die Gabel
-Das Böse
-Das Dienstmädchen
-Die Relative
-Die Hexe
-Der Hof
-Die Sensation
-Die Blase
-Der Leser
-Die Locke
-Der Kuchen
-Der Strahl
-Die Verschiebung
-Die Union
-Der Teenager
-Die Ebene
-Die Kellnerin
-Die Antwort
-Das Gerücht
-Die Schwerkraft
-Die Zuflucht
-Das Abenteuer
-Der Löwe
-Die Wirbelsäule
-Das Vertrauen
-Die Tiefe
-Die Reichweite
-Der Hammer
-Die Bibel
-Der Vertrag
-Der Geldbeutel
-Der Dschungel
-Die Fabrik
-Die Indische
-Der Balkon
-Der Reis
-Der Knoten
-Die Schnur
-Der Kollege
-Die Absicht
-Die Stare
-Das Motel
-Der Anwalt
-Der Liebling
-Die Diskussion
-Die Leistung
-Die Spannung
-Der Text
-Der Strang
-Die Mittags
-Die Vene
-Der Experte
-Die Gruppe
-Der Polizist
-Der Krebs
-Der Fuchs
-Die Scheidung
-Die Impuls
-Die Abwesenheit
-Die Gewalt
-Der Humor
-Der Stuhl
-Der Kies
-Der Schatz
-Die Butter
-Der Schalter
-Die Zigarre
-Die Leinwand
-Die Fröhlichkeit
-Der Führer
-Der Stift
-Der Schauspieler
-Das Ganze
-Die Vereinbarung
-Die Braune
-Der Gastgeber
-Das Farbband
-Der Schal
-Die Skala
-Der Beweis
-Der Pfeil
-Die Temperatur
-Die Technologie
-Die Erlaubnis
-Der Ort
-Die Klaue
-Der Cowboy
-Die Agentur
-Die Konstruktion
-Das Jagd
-Das Gemüse
-Die Dose
-Der Hubschrauber
-Die Falle
-Das Pat
-Die Lücke
-Das Haustier
-Die Bildung
-Das Einkaufen
-Der Schuppen
-Die Vereinbarung
-Die Erde
-Der Herzog
-Die Schrotflinte
-Die Vorstellung
-Die Rück
-Die Zeremonie
-Der Löffel
-Die Wanne
-Der Schlüssel
-Die Iris
-Der Vorfall
-Der Absturz
-Das Tagebuch
-Die Zugriffs
-Der Messing
-Die Mama
-Die Seitenleiste
-Das Schaf
-Der Ingenieur
-Der Rumpf
-Der Geruch
-Der Termin
-Die Einladung
-Die Lappen
-Das Gute
-Der Kumpel
-Die Behandlung
-Die Weisheit
-Der Preis
-Das Element
-Der Gigant
-Die Serviette
-Die Wäsche
-Die Option
-Das Regal
-Die Anforderung
-Das Gefängnis
-Der Opa
-Die Ranch
-Der Punkt
-Das Skript
-Die Einkaufshalle
-Der Ford
-Die Übung
-Die Witwe
-Die Krähe
-Der Faden
-Die Selbstmord
-Die Notiz
-Der Sonnenuntergang
-Die Gallerie
-Das Schiff
-Der Donner
-Die Seife
-Der Whisky
-Das Weibchen
-Der Bürgermeister
-Der Hub
-Der Klick
-Der Ruf
-Der Müller
-Der Rat
-Der Stundenplan
-Der Friedhof
-Der Kampf
-Der Instinkt
-Die Ruhe
-Der Arbeitnehmer
-Das Nest
-Das Limit
-Der Deutsche
-Der Mönch
-Der Wurm
-Das Dokument
-Die Traurigkeit
-Die Hütte
-Die Lebensdauer
-Die Tänzerin
-Die Versicherung
-Die Schwierigkeit
-Die Matratze
-Der Mann
-Die Klinik
-Die Ad
-Der Becher
-Das Kit
-Die Kommunikation
-Das Unglück
-Die Fliese
-Der Empfänger
-Das Gebrüll
-Die Truppe
-Der Sarg
-Die Freundschaft
-Die Ermittlung
-Der Verkauf
-Das Ziel
-Der Krankenwagen
-Das Mondlicht
-Das Mündel
-Die Hosen
-Die Wolle
-Die Mac
-Der Minister
-Der Eintritt
-Der Dieb
-Die Aktentasche
-Das Mitleid
-Die Finger
-Die Marine
-Das Insekt
-Der Samt
-Die Biene
-Der Stock
-Das Gen
-Der Salat
-Die Windschutzscheibe
-Das Outfit
-Der Shuttle
-Der Schrei
-Die Wut
-Die Herausforderung
-Die Zufriedenheit
-Der Motor
-Das Produkt
-Das Unkraut
-Die Strecke
-Das Fitnesscenter
-Das Kapital
-Der Rand
-Die Pfote
-Die Festung
-Die Kosten
-Das Plakat
-Der Vampir
-Die Welle
-Die Identität
-Der Bürgersteig
-Das Arschloch
-Der Gurt
-Das Wohnzimmer
-Der Hafen
-Das Beispiel
-Das Netz
-Der Golf
-Die Freude
-Die Decke
-Die Steuer
-Die Falte
-Das Porträt
-Das Gewebe
-Der Glaube
-Das Kostüm
-Das Maß
-Der Wagen
-Die Gitarre
-Der Ritter
-Der Rang
-Der Bürgermeister
-Der Brunnen
-Der Stall
-Die Ladung
-Der Funke
-Der Müll
-Der Champagner
-Das Viertel
-Der Schutz
-Das Urteil
-Die Sympathie
-Das Violett
-Der Aufprall
-Die Enttäuschung
-Das Trink
-Das Bewusstsein
-Das Taschentuch
-Das Tanzen
-Das Parfüm
-Das Netzwerk
-Der Anspruch
-Die Nonne
-Die Krone
-Das Geländer
-Die Lizenz
-Die Barmherzigkeit
-Der Ballon
-Das Chaos
-Das Fieber
-Das Schließfach
-Die Sitzung
-Die Burst
-Der Spitzer
-Die Trommel
-Der Fokus
-Der Frosch
-Der Vorteil
-Die Bemerkung
-Die Gezeiten
-Der Verdacht
-Der Jeep
-Die Sorge
-Die Literatur
-Der Bogenschütze
-Der Haushalt
-Das Pulver
-Der Hirte
-Die Linse
-Der Favorit
-Die Madame
-Die Villa
-Der Boom
-Die Spitze
-Die Überprüfung
-Die Rezeption
-Der Schrott
-Der Wulst
-Die Blendung
-Die Strömung
-Das Cafe
-Der Status
-Das Pochen
-Die Rakete
-Die Schlucht
-Die Trauer
-Die Spinne
-Die Explosion
-Die Persönlichkeit
-Der Campus
-Der Fluch
-Das Treppenhaus
-Der Drang
-Die Frustration
-Die Pumpe
-Die Leichtigkeit
-Die Zählung
-Die Lösung
-Der Schmuck
-Die Sirene
-Der Schlag
-Die Tradition
-Das Leer
-Die Vielfalt
-Der Pirat
-Die Beschreibung
-Der Liebe
-Die Angst
-Die Tonhöhe
-Die Pizza
-Der Elefant
-Die Politik
-Der Tennis
-Der Hunger
-Das Genie
-Die Ziege
-Der Sieg
-Die Kombination
-Die Zugehörigkeit
-Das Momma
-Der Umhang
-Der Scheinwerfer
-Der Gouverneur
-Die Sauerstoff
-Der Bischof
-Das Bündel
-Die Entwicklung
-Der Fingernagel
-Die Punktzahl
-Der Steuermann
-Der Fahrer
-Die Umlaufbahn
-Der Weinstock
-Die Suite
-Der Barkeeper
-Der Koks
-Die Melodie
-Die Herrlichkeit
-Der Rabbi
-Die Operation
-Das Vieh
-Das Ritual
-Die Begrüßung
-Die Scheibe
-Die Homer
-Der Kamin
-Das Trikot
-Die Medien
-Die Pop
-Die Fracht
-Das Gasthaus
-Der Stellvertretende
-Die Verzweiflung
-Das Territorium
-Der Schlag
-Die Jazz
-Die Umarmung
-Die Pfeife
-Die Menschlichkeit
-Das Handwerk
-Das Tageslicht
-Der Wert
-Der Slip
-Die Rüstung
-Der Rucksack
-Der Vorschlag
-Die Höhle
-Das Symbol
-Die Kolonie
-Das Fazit
-Das Nasenloch
-Der Speer
-Der Impuls
-Die Tomate
-Das Kalb
-Der Herbst
-Der Fund
-Das Klassenzimmer
-Die Lieferung
-Das Spray
-Die Flüssigkeit
-Die Kraftstoff
-Die Unterwäsche
-Die Kuppel
-Die Bevölkerung
-Die Neigung
-Die Religion
-Der Sänger
-Der Begleiter
-Die Illusion
-Der Link
-Das Wohnzimmer
-Der Innenraum
-Die Achselzucken
-Die Zone
-Der Standard
-Die Kohlen
-Die Jagd
-Der Klumpen
-Der Charm
-Die Legende
-Die Konsequenz
-Die Beobachtung
-Das Fahrrad
-Der Schaden
-Die Zahlung
-Das Prospekt
-Die UBahn
-Das Muster
-Die Kirsche
-Der Händler
-Die Zuordnung
-Die Eile
-Die Geliebte
-Der Hügel
-Der Unsinn
-Das Komitee
-Das Echo
-Der Durchhang
-Die Decker
-Das Warenhaus
-Der Kampf
-Der Toast
-Die Einrichtung
-Der Basketball
-Der Schnurrbart
-Der Senator
-Das Teilen
-Das Augenlid
-Die Begeisterung
-Die Chunk
-Die Schildkröte
-Der Alkohol
-Die Gummi
-Der Truthahn
-Der Prediger
-Der Besitz
-Der Dolly
-Das Leinen
-Die Entschuldigung
-Der Vortrag
-Der Stein
-Der Heap
-Der Fotograf
-Die Bremse
-Die Nachfrage
-Die Schürze
-Der Mantel
-Die Jury
-Die Anhörung
-Das Graue
-Die Kiste
-Die Methode
-Die Referenz
-Der Ekel
-Die Flotte
-Der Lippenstift
-Der Kern
-Der Einzelne
-Der Container
-Die Hure
-Das Kleinkind
-Die Sonnenbrille
-Der Schlauch
-Das Konzert
-Das Bullshit
-Die Eisenbahn
-Die Parade
-Das Fach
-Der Bewohner
-Der Backofen
-Der Techniker
-Das Verfahren
-Der Kämpfer
-Das Korn
-Das Picknick
-Der Stamm
-Die Knospe
-Die Wiese
-Die Öffentlichkeit
-Das Gift
-Der Büffel
-Die Region
-Die Produktion
-Das Rennen
-Die Schleife
-Der Schlaf
-Die Soda
-Die Eule
-Das Menü
-Der Kick
-Die Ruine
-Die Rampe
-Der Streifen
-Der Unterarm
-Das Büro
-Der Achsschenkel
-Die Gans
-Der Vormarsch
-Die Fee
-Die Krankheit
-Die Mannschaft
-Das Offizielle
-Die Marke
-Die Orgel
-Der Schmetterling
-Das Reich
-Das Profil
-Die Freiheit
-Der Unglaube
-Der Hain
-Das Schild
-Der Sattel
-Die Chancen
-Die Cluster
-Der Satellit
-Der Abzug
-Der Welpe
-Die Warte
-Die Glühbirne
-Die Kommode
-Die Patrouille
-Der Adler
-Der Privatsphäre
-Das Fluid
-Die Herde
-Der Kopfschmerz
-Der Vergnügungspark
-Der Rollstuhl
-Die Richtlinie
-Das Belle
-Die Tabak
-Die Einstellung
-Die Tätowierung
-Die Last
-Der Händler
-Die Rutsche
-Der Fleck
-Das Essen
-Die Bindung
-Das Schwimmen
-Die Grundlage
-Die Verletzung
-Die Liga
-Die Batterie
-Der Regenschirm
-Der Kaiser
-Der Pier
-Der Wasserhahn
-Der Witz
-Der Cutter
-Der Dachboden
-Der Tiger
-Die Pal
-Der Vorfahr
-Die Konzentration
-Der Berg
-Der Aufwand
-Der Segen
-Der Urlaub
-Die Leiste
-Die Fackel
-Die Tinten
-Die Handlung
-Die Miete
-Das Maultier
-Der Bogen
-Die Umgebung
-Das Stirnrunzeln
-Der Inspektor
-Die Mitten
-Die Verlegenheit
-Die Beschwerde
-Die Portion
-Das Spannfutter
-Die Clearing
-Die Krise
-Die Halskette
-Die Laterne
-Der Reichtum
-Der Mörder
-Die Zivilisation
-Das Konzept
-Das Lamm
-Die Schritt
-Die Manschette
-Die Jungfrau
-Das Eichhörnchen
-Das Kind
-Der Star
-Die Depression
-Das Speicher
-Der Altar
-Die Tragödie
-Die Ressource
-Der Reisende
-Das Vertrauen
-Die Bogen
-Das Königreich
-Das Juwel
-Der Musiker
-Das Flugzeug
-Die Junk
-Der Sonnenschein
-Der Knabe
-Der Elf
-Der Protest
-Die Jagd
-Die Exekutive
-Das Tagebuch
-Das Aspekt
-Das Zifferblatt
-Der Hausschuh
-Die Schauspielerin
-Das Shooting
-Der Ohrring
-Die Ameise
-Die Patty
-Die Sauce
-Die Rakete
-Die Intensität
-Der Graben
-Das Gänseblümchen
-Die Kapelle
-Der Sumpf
-Die Beziehung
-Die Vermutung
-Der Kran
-Die Begegnung
-Die Sequenz
-Das Fragment
-Der Entwurf
-Das Diner
-Die Funktion
-Die Organisation
-Das Skelett
-Das Elend
-Das Kraut
-Der Stumpf
-Der Einsatz
-Die Puff
-Die Kreation
-Das Gefolge
-Der Zauberer
-Die Matte
-Die Dichtung
-Das Zwielicht
-Das Grunzen
-Die Strafe
-Der Clan
-Das Kupfer
-Die Trümmer
-Der Maler
-Das Steuer
-Die Mathematik
-Die Erkennung
-Die Stimmung
-Das Bedauern
-Das Ziel
-Die Mühle
-Der Fehler
-Die Romantik
-Das Thema
-Die Terrasse
-Die Schaufel
-Die Schlafanzüge
-Die Email
-Die Taube
-Der Dinosaurier
-Die Branche
-Der Betreiber
-Der Lift
-Der Ratgeber
-Die Versammlung
-Das Prinzip
-Das Drama
-Das Küken
-Das Diagramm
-Die Kampagne
-Der Lorbeer
-Das Steak
-Der Kriminelle
-Der Globus
-Der Bluterguss
-Der Knopf
-Das Töten
-Der Schatz
-Die Oper
-Der Frost
-Der Nippel
-Der Pfarrer
-Die Trübung
-Das Hochwasser
-Das Weihnachtslied
-Die Schwäche
-Das Kochen
-Der Metzger
-Der Würfel
+Zeit tsaɪ̯t m
+Mann -æn m
+Hand hant m
+Tag tɑːk m
+Weg veːk m
+Auge ˈaʊ̯ɡə n
+Ding dɪŋ n
+Kopf kɔpf m
+Jahr jaː(ɐ̯) n
+Zimmer ˈt͡sɪmɐ m
+Tür tyːr f
+Frau fʁaʊ̯ m
+Gesicht ɡeˈzɪçt m
+Mutter ˈmʊtɐ m
+Volk fɔlk m
+Nacht naxt m
+Haus haʊ̯s n
+Vater ˈfɑːtʰɐ m
+Leben ˈleːbən m
+Rücken ˈʁʏkn̩ m
+Stimme ˈʃtɪmə f
+Mädchen ˈmɛːtçən m
+Ort (ʔ)ɔʁt m
+Junge ˈjʊŋə m
+Auto ˈaʊ̯toː m
+Seite ˈzaɪ̯tə m
+Arm (ʔ)aʁm m
+Kind kɪnt n
+Wort vɔrt n
+Moment moˈmɛnt m
+Haar haːɐ̯ n
+Fuß fuːs m
+Wasser ˈʋasʌ f
+Licht lɪçt n
+Welt vɛlt f
+Name ˈnaːmə m
+Freund frɔʏ̯nt m
+Fenster ˈfɛnstɐ n
+Körper ˈkœrpər m
+Tisch tɪʃ m
+Morgen ˈmɔʁ.ɡən m
+Bett betː n
+Mauer ˈmaʊ̯ɐ f
+Straße ˈʃtrɑːsə f
+Schule ˈʃuːlə f
+Luft lʊft m
+Boden ˈboːdn̩ m
+Stunde ˈʃtʊndə f
+Ende ˈɛndə n
+Familie faˈmiːliə f
+Kerl kɛʁl m
+Art (ʔ)aːʁt m
+Minute miˈnuːtə f
+Geschichte ɡəˈʃɪçtə f
+Gott ɡɔt m
+Woche ˈvɔxə f
+Arbeit ˈaːrbaɪ̯t m
+Schulter ˈʃʊltɐ f
+Teil taɪ̯l m
+Geist ɡaɪ̯st m
+Buch bux m
+Finger ˈfɪŋɐ m
+Mund mʊnt m
+Kind kɪnt n
+Glas ɡlɑs n
+Baum baʊ̯m m
+Klang klaŋ m
+Linie ˈliːni̯ə f
+Herz hɛʁts n
+Geld ɡɛlt n
+Telefon ˌteːləˈfoːn m
+Bein baɪ̯n n
+Stuhl ʃtuːl m
+Büro byˈʀoː n
+Bruder ˈbruːdɐ m
+Frage ˈfʀaːɡə f
+Stadt ʃtat m
+Monat ˈmoːnat m
+Baby ˈbeːbi n
+Zuhause t͡suˈhaʊ̯.zə n
+Hund hʊnt m
+Straße ˈʃtrɑːsə f
+Idee ʔiˈdeː f
+Küche ˈkʏçə f
+Ganze ˈɡantsə n
+Sohn zoːn m
+Beruf bəˈʁuːf m
+Papier paˈpiːɐ̯ n
+Schwester ˈʃʋɛstʌ f
+Lächeln ˈlɛçəln n
+Punkt pʊŋ(k)t m
+Gedanke ɡəˈdaŋkə m
+Liebe ˈliːbə f
+Stadt ʃtat m
+Tod toːt m
+Boden ˈboːdn̩ m
+Feuer ˈfɔʏər n
+Schritt -ɪt m
+Blut bluːt n
+Tatsache ˈtaːtˌzaxə f
+Atem ˈaːtəm m
+Lippe ˈlɪpə f
+Sonne ˈzɔnə m
+Gebäude ɡəˈbɔʏ̯də n
+Anzahl ˈantsaːl f
+Elternteil ˈɛltɐnˌtaɪ̯l m
+Ecke ˈɛkə f
+Problem pʁoˈbleːm m
+Tochter ˈtɔx.tɐ f
+Beutel ˈbɔʏ̯tl̩ m
+Hölle ˈhœlə f
+Rast ʁast f
+Geschäft ɡəˈʃɛft n
+Himmel ˈhɪml̩ m
+Kiste ˈkɪstə f
+Person -ɜː(ɹ)sən f
+Grund ɡʁʊnt m
+Recht ʁɛçt n
+Haut haʊt f
+Vater ˈfɑːtʰɐ m
+Fall fal m
+Stück ʃtʏk n
+Doktor ˈdɔktoːɐ̯ m
+Ecke ˈɛkə f
+Mama ˈmama f
+Bild bilt n
+Sinn zɪn m
+Ohr oːr m
+Dame ˈdaːmə f
+Hals hals m
+Wind vɪnt m
+Schreibtisch ˈʃʀaɪ̯ptɪʃ m
+Waffe ˈvafə f
+Stein ʃtaɪn m
+Kaffee ˈkafe m
+Schiff ʃɪf n
+Erde ˈeːɐ̯də f
+Essen ˈɛsən m
+Pferd (p)feːrt m
+Feld fɛlt n
+Krieg kriːk m
+Nachmittag ˈnaːx.mɪˌtaːk m
+Raum ʁaʊ̯m m
+Abend ˈaːbənt m
+Brief ˈbʁiːf m
+Bar baːɐ m
+Traum tʀaʊ̯m m
+Wohnung ˈvoːnʊŋ f
+Brust bʁʊst f
+Spiel ʃpiːl n
+Sommer ˈzɔmɐ m
+Grund ɡʁʊnt m
+Stille ˈʃtɪlə f
+Spitze ˈʃpɪt͡sə f
+Fels fɛls m
+Macht maχt f
+Kleider ˈklaɪ̯dɐ f
+Schild ʃɪlt m
+Aufmerksamkeit ˈaʊ̯fˌmɛʁkzaːmkaɪ̯t f
+Musik muˈziːk f
+Staat ʃtaːt m
+Tasche ˈtaʃə f
+Abendessen ˈʔaːbəntˌʔɛsən n
+Halle ˈhæli f
+Schmerz ʃmɛʁts m
+Alter ˈaltər m
+Fluss flʊs m
+Chance ˈʃãːs(ə) f
+Nase ˈnɑzə f
+Schatten ˈʃatən m
+Polizei ˌpoliˈt͡saɪ̯ f
+Gedächtnis ɡəˈdɛç(t).nɪs n
+Farbe ˈfaʁbə f
+Knie kniː n
+Holz hɔl(t)s m
+Hemd hɛmt n
+Land lɒnd m
+Zahn tsaːn m
+Rechnung ˈʀɛçnʊŋ f
+Szene st͡seːnə f
+Land lɒnd m
+Stern ʃtɛʁn m
+Vogel ˈfoːɡəl m
+Onkel ˈɔŋkəl m
+Art (ʔ)aːʁt m
+Gruppe ˈɡʁʊpə f
+Wahrheit ˈvaːɐ̯haɪ̯t f
+Menge ˈmɛŋə f
+Bahnhof ˈbaːnhoːf m
+Klasse ˈklasə f
+Meer meːr m
+Tier tiːɐ̯ n
+Zentrum ˈt͡sɛntʁʊm n
+Gefühl ɡəˈfyːl f
+Geschäft ɡəˈʃɛft n
+Berg bɛrk m
+Nachrichten ˈnaːxʁɪçtən f
+Schuh ʃuː m
+Katze ˈkʰɑtsə f
+Flasche ˈflaʃə f
+Wange ˈvaŋə f
+Schüler ˈʃyːlɐ m
+Ball bal m
+Sehenswürdigkeit ˈzeːənsˌvʏʁdɪçkaɪ̯t f
+Hügel ˈhyːɡl̩ m
+Unternehmen ˌʊntɐˈneːmən n
+Kirche ˈkɪʁçə f
+Regen ˈʁeːɡən m
+Anzug ˈantsuːk m
+Eine ˈeine m
+Richtung ˈʁɪçtʊŋ f
+Wille ˈvɪlə m
+Hals hals m
+Mitte ˈmɪ.tə f
+Antwort ˈantvɔʁt f
+Zeug t͡sɔʏ̯k n
+Krankenhaus ˈkʁaŋkənˌhaʊ̯s n
+Kleid klaɪ̯t n
+Karte ˈkaʁtə f
+Hof hoːf m
+Scheiße ˈʃaɪ̯sə f
+Bild bilt n
+Maschine maˈʃiːnə f
+Distanz -ants f
+Gebiet ɡəˈbiːt n
+Erzähler ɛʁˈtsɛːləʁ m
+Eis ei̯s n
+Schnee ʃneː m
+Notiz noˈtiːts f
+Spiegel ˈʃpiːɡ(ə)l m
+König ˈkøːnɪç m
+Angst ʔaŋst f
+Offizier -iːɐ̯ m
+Loch lɔx n
+Schuss ʃʊs m
+Wächter ˈvɛçtɐ m
+Boot boːt n
+System zɪsˈteːm n
+Pflege ˈpfleːɡə f
+Bit bɪt n
+Knochen ˈknɔχn m
+Seite ˈzaɪ̯tə m
+Kapitän kapiˈtɛːn m
+Tante ˈtantə f
+Kontrolle -ɔlə f
+Getränk ɡəˈtʀɛŋk n
+Hotel hoːˈtel m
+Mantel ˈmantəl m
+Bestellung bəˈʃtɛlʊŋ f
+Rose ʁoz f
+Fehl feːl m
+Hut huːt m
+Gold ɡəʊld n
+Zigarette ˌtsi(ː).ɡaˈʁɛ.tə f
+Wolke ˈvɔlkə m
+Fahrer ˈfaːʁɐ m
+Tasse ˈtasə f
+Figur fiˈɡuːɐ̯ f
+Ausdruck ˈʔaʊ̯sdʁʊk m
+Pfad pfaːt m
+Schlüssel ˈʃlʏsl̩ m
+Computer kɔmˈpjuːtɐ m
+Blume ˈbluːmə f
+Ring ʀɪŋ m
+Bad baːt n
+Metall meˈtal n
+Mond mɔːnt m
+Lied ˈliːt n
+Soldat zɔlˈdaːt m
+Radio ˈʀaːdɪ̯o m
+Geschichte ɡəˈʃɪçtə f
+Welle ˈvɛlə f
+Plan plaːn m
+Fisch fɪʃ m
+Garten ˈɡaʁ.tən m
+Zug t͡suːk m
+Geschäft ɡəˈʃɛft n
+Polizist poliˈt͡sɪst m
+Kunst kʊnst f
+Bier biər m
+Nord nɔʁ m
+Insel ˈɪnzəl f
+Bus bʊs m
+Geruch ɡəˈʁʊχ m
+Geräusch ɡəˈʁɔʏ̯ʃ n
+Mama ˈmama f
+Park paʁk m
+Süden ˈzyːdən m
+Paar paːɐ̯ n
+Herr hɛʁ m
+Teller ˈtɛlɐ m
+Jacke ˈjakə f
+Hilfe ˈhɪlfə f
+Papa 'pæpə m
+Gras ɡʁaːs n
+Dank daŋk m
+Hitze ˈhɪtsə f
+Schlaf ʃlaːf m
+Gehirn ɡəˈhɪʁn n
+Service ˈsœɐ̯vɪs m
+Reise ˈʁaɪ̯zə f
+Messer ˈmɛsɐ m
+Platz plats m
+Nachricht ˈnaːxʁɪçt f
+Lehrer ˈleːʁɐ m
+Blick blɪk m
+Dorf dɔrf f
+Winter ˈvɪntɐ m
+Front fʀɔnt f
+Gesetz ɡəˈzɛts n
+Bank baŋk f
+Team tiːm n
+Bauch baʊ̯x m
+Wende ˈvɛndə m
+Westen ˈvɛstən m
+Mittagessen ˈmɪtakʔɛsn n
+Wechsel ˈvɛksl̩ m
+Kreatur -uːɐ̯ f
+Seele ˈzeːlə f
+Blatt blat m
+Kunststoff ˈkʊnst.ʃtɔf m
+Kraft kraft f
+Strand ʃtrant m
+Präsident pʁɛziˈdɛnt m
+Form fɔʁm m
+Rauch ʁaʊ̯x m
+Rad raːt n
+Silber ˈzɪlbɐ n
+Dach dax m
+Gewicht ɡəˈvɪçt n
+Zunge ˈtsʊŋə f
+Tee teː m
+Winkel ˈvɪŋkl̩ m
+Form fɔʁm m
+Ton toːn m
+Kreis kraɪ̯s m
+Frühling ˈfʀyːlɪŋ m
+Blatt blat m
+Mitglied ˈmɪtɡliːt n
+Bedürfnis bəˈdʏʁfnɪs n
+Hoffnung ˈhɔfnʊŋ m
+See zeː m
+Brust bʁʊst f
+Überraschung yːbɐˈʀaʃʊŋ f
+Interesse ˌɪn.təˈrɛsə n
+Boden ˈboːdn̩ m
+Geist ɡaɪ̯st m
+Block blɔk m
+Sprache ˈʃpʁaːxə f
+Brücke ˈbʁʏkə m
+Staub ʃtaʊ̯p m
+Zelle ˈtsɛlə m
+Wein vaɪ̯n m
+Boot boːt n
+Wahl vaːl f
+Reihe ˈʀaɪ̯ə f
+Gespräch ɡəˈʃpʀɛːç n
+Flugzeug ˈfluːktsɔʏ̯k m
+Uhr uə̯ f
+Information ˌɪnfɔʁmaˈtsjoːn f
+Großmutter ˈɡʀoːsˌmʊtɐ f
+Flügel ˈflyːɡl̩ m
+Bob bɒb m
+Club klʊp m
+Meister ˈmaɪ̯stɐ m
+Gnade ˈɡnaːdə f
+Wald vɑlt m
+Größe ˈɡʁøːsə f
+Satz zats m
+Ehe ˈeːə f
+Stirn ʃtɪʁn f
+Sturm ʃtʊʁm m
+Situation zitʊ̯aˈt͡si̯oːn f
+Zähler ˈt͡sɛːlɐ m
+Nachbar ˈnaxbaː(ɐ̯) m
+Foto foːto n
+Bühne ˈbyːnə f
+Krankenschwester -ɛstɐ f
+Sicherheit ˈzɪçɐhaɪ̯t f
+Waffe ˈvafə f
+Ereignis ʔɛɐ̯ˈʔaɪ̯ɡnɪs n
+Decke ˈdɛkə f
+Motor ˈmoːtoːɐ̯ m
+Geschenk ɡəˈʃɛŋk n
+Restaurant ˌʁɛstoˈʁãː n
+Flur fluːɐ̯ m
+Armee aʁˈmeː f
+Aufwand ˈʔaʊ̯fvant m
+Osten ˈɔstən m
+Zukunft ˈtsuːˌkʊnft f
+Hose ˈhoːzə f
+Leder ˈleːdɐ n
+Flug fluːk m
+Geschlecht ɡəˈʃlɛçt n
+Gericht ɡəˈʀɪçt n
+Kurs kʊʁs m
+Dreck dʀɛk m
+Ei aɪ̯ n
+Kinn kɪn n
+Fremde ˈfʀɛmdə f
+Freude ˈfʀɔʏ̯də f
+Detail deˈtaɪ̯ n
+Besatzung bəˈzat͡sʊŋ f
+Herbst hɛʁpst m
+Gast ɡast m
+Erlebnis ʔɛɐ̯ˈleːbnɪs n
+Witz vɪt͡s m
+Sand zant m
+Faust faʊ̯ʃt f
+Hochzeit ˈhɔxˌt͡saɪ̯t f
+Natur naˈtuːɐ̯ f
+Planet plaˈneːt m
+Cousin kuˈzɛ̃ː m
+Bewegung bəˈveːɡʊŋ f
+Fleisch flaɪ̯ʃ n
+Camp kɛmp n
+Zeitung ˈt͡saɪ̯tʊŋ f
+Strahl ʃtʁaːl m
+Mensch mɛnʃ m
+Sofa ˈzoːfa n
+Bewegung bəˈveːɡʊŋ f
+Großvater ˈɡʁoːsfatɐ m
+Fotografie -iː f
+Geheimnis ɡəˈhaɪmnɪs n
+Schönheit ˈʃøːnhaɪ̯t f
+Vorhandensein foːɐ̯ˈhandn̩zaɪ̯n n
+Glocke ˈɡlɔkə f
+Volks fɔlks f
+Knopf knɔpf m
+Liste ˈlɪstə f
+Level ˈlɛvl̩ m
+Datum ˈdaːtʊm m
+Thema ˈteːma n
+Unterschied ˈʔʊntʰɐˌʃiːt m
+Pause ˈpaʊ̯zə f
+Van væn m
+Klinge ˈklɪŋə f
+Fernsehen ˈfɛʁnˌzeː.ən n
+Vergangenheit fɛɐ̯ˈɡaŋənhaɪ̯t f
+Bauernhof ˈbaʊ̯ɐnˌhoːf m
+Band bant m
+Anwalt ˈanvalt m
+Magazin maɡaˈtsiːn n
+Ast ast m
+Rahmen ˈʁaːmən m
+Deck dɛk n
+Effekt ɛˈfɛkt m
+Tanz tan(t)s m
+Sicht zɪçt f
+Gespenst ɡəˈʃpɛnst n
+Esel ʔeːzl̩ m
+Charakter kaˈraktər m
+Blick blɪk m
+Wiedersehen ˈviːdɐˌzeː(ə)n n
+Park paʁk m
+Frühstück ˈfʁyːʃtʏk n
+Geste ˈɡeːstə f
+Glück ɡlʏk n
+Decke ˈdɛkə f
+Gas ɡaːs m
+Korridor ˈkɔʁidoːɐ̯ m
+Professor pʁoˈfɛsoːɐ̯ m
+Spiel ʃpiːl n
+Fehler feːlɐ m
+Universität ʔunivɛɐ̯ziˈtɛːt f
+Ozean ˈʔoːtseaːn m
+Jahrhundert jaːɐ̯ˈhʊndɐt n
+Honig ˈhoːnɪç m
+Stapel ˈʃtaːpl̩ m
+Schale ˈʃaːlə f
+Basis ˈbaːzɪs f
+Zaun t͡saʊ̯n m
+Regel ˈʀeːɡl̩ f
+Gelächter ɡəˈlɛçtɐ n
+Wut vuːt f
+Schweiß ʃfaɪ̯s m
+Unfall ˈʊnˌfal m
+Wetter ˈvɛtɐ n
+Entscheidung ʔɛntˈʃaɪ̯dʊŋ f
+Engel ˈɛŋl̩ m
+Stärke ˈʃteːɐ̯kə f
+Huhn huːn n
+Studium ˈʃtuːdi̯ʊm n
+Band bant m
+Handgelenk ˈhant.ɡeˌlæŋk n
+Halt halt m
+Hüfte ˈhʏftə m
+Regierung ʁəˈɡiːʁʊŋ f
+Bauch baʊ̯x m
+Königin ˈkøːnɪɡɪn f
+Bericht bəˈʀɪçt m
+Schweif ʃvaɪ̯f m
+Pflanze ˈpflan(t)sə f
+Himmel ˈhɪml̩ m
+Gürtel ˈɡʏʁtəl m
+Nachbarschaft ˈnaxba(ːɐ̯)ʃaft f
+Energie eːnɛʁˈɡiː f
+Grün ɡʁyːn n
+Viertel ˈfɪʁtəl n
+Feind faɪ̯nt m
+Bewegung bəˈveːɡʊŋ f
+Eingang ˈʔaɪ̯nˌɡaŋ m
+Bibliothek ˌbiː.bli.oˈteːk m
+Verfasser ˌfɛɐ̯ˈfasɐ m
+Frieden ˈfriːd(ə)n m
+Berührung bəˈʀyːʀʊŋ f
+Topf tɔpf m
+Typ tyːp m
+Grund ɡʁʊnt m
+Seil zaɪ̯l n
+Muskel ˈmʊskəl m
+Gemälde ˌɡəˈmɛːldə n
+Gardine ɡaʁˈdiːnə f
+Akt akt m
+Wolf vɔlf m
+Kajüte kaˈjyːtə f
+Uhr uə̯ f
+Passagier ˌpasaˈʒiːɐ̯ m
+Kumpel ˈkʊmpl̩ m
+Medikament medikaˈmɛnt n
+Verwendung fɛɐ̯ˈvɛndʊŋ f
+Bank baŋk f
+Verkehr fɛrˈkeːr m
+Kappe ˈkapə f
+Rudel ˈʁuːdl̩ n
+Wochenende ˈvɔχn̩ˌʔɛndə n
+Stand ʃtant m
+Aufzug ˈʔaʊ̯ftsuːk m
+Geburtstag ɡəˈbuːɐ̯t͡sˌtaːk m
+Bügeleisen ˈbyːɡl̩ˌʔaɪ̯zn̩ n
+Fleisch flaɪ̯ʃ n
+Augenbraue ˈaʊ̯ɡənˌbʁaʊ̯ə f
+Antwort ˈantvɔʁt f
+Geschwindigkeit ɡəˈʃvɪndɪçkaɪ̯t f
+Absicht ˈapzɪçt f
+Rock ʁɔk m
+Quadrat -aːt m
+Fahrt faːɐ̯t f
+Artikel a(ʁ)ˈtɪkəl m
+Englisch ˈɛŋlɪʃ n
+Turm tʊʁm m
+Kampf kam(p)f m
+Rennen ˈʁɛnən n
+Methode meˈtoːdə f
+Schwert ʃveːɐ̯t f
+Stock ʃtɔk m
+Datei daˈtaɪ̯ f
+Brot bʁoːt m
+Öl øːl n
+Kette ˈkɛtə f
+Projekt pʁoˈjɛkt n
+Mord mɔrt m
+Bär bɛːɐ̯ m
+Test tɛst m
+Besuch bəˈzuːχ m
+Milch mɪlç f
+Chef ʃɛf m
+Ellbogen ˈɛlˌboːɡn̩ m
+Verlangen fɛɐˈlaŋən n
+Patient paˈt͡si̯ɛnt m
+Grinsen ˈɡʀɪnzn̩ n
+Liebhaber ˈliːpˌhaːbɐ m
+Preis pʁaɪ̯s m
+Karte ˈkaʁtə f
+Wissen ˈvɪsən f
+Anfang ˈanfaŋ m
+Kälte ˈkɛltə f
+Schrank ʃʀaŋk m
+Tempel ˈtɛmpl̩ m
+Spaß ʃpaːs m
+Pflicht pflɪçt f
+Übung ˈʔyːbʊŋ f
+Ferse ˈfɛɐzə f
+Tal taːl n
+Kampf kam(p)f m
+Kabel ˈkaːbəl n
+Jeans (d)ʒiːns f
+Kuss kʰʊs m
+Kiefer ˈkiːfɐ m
+Lauf -aʊ̯f m
+Halt halt m
+Verhältnis fɛɐ̯ˈhɛltnɪs n
+Objekt ʔɔpˈjɛkt n
+Angriff ˈanˌɡʀɪf m
+Gericht ɡəˈʀɪçt n
+Autobahn ˈʔaʊ̯toˌbaːn f
+Weiß vaɪs n
+Priester ˈpʁiːstɐ m
+Rasen ˈraːzən m
+Lachen -aχn n
+Weinen ˈvaɪ̯nən n
+Programm pʀoˈɡʀam m
+Fahrt faːɐ̯t f
+Regal ʁeˈɡaːl n
+Gentleman ˈdʒɛntəlˌmɛn m
+Sein zaɪn n
+Stahl ʃtaːl m
+Uniform ˈjuːnifɔːm f
+Muster ˈmʊstɐ n
+Beweis bəˈvaɪ̯s m
+Spieler ˈʃpiːlɐ m
+Roman ˈɹəʊm.ən m
+Lampe ˈlampə f
+Schublade ˈʃuːpˌlaːdə f
+Gefahr ɡəˈfaːɐ̯ f
+Detektiv ˌdeːtɛkˈtiːf m
+Riss ʀɪs m
+Gebet ɡəˈbeːt n
+Handtuch ˈhantˌtuːχ n
+Handschuh ˈhantʃuː m
+Bucht bʊxt f
+Publikum ˈpuːbliːkʊm n
+Dose ˈdoːzə f
+Bedingung bəˈdɪŋʊŋ f
+Pfad pfaːt m
+Taille ˈtaljə f
+Druck dʁʊk m
+Telefon ˌteːləˈfoːn m
+Waschbecken ˈvaʃˌbɛkən n
+Rückkehr ˈrʏkkeːɐ̯ f
+Brise ˈbʁiːzə f
+Geschmack ɡəˈʃmak m
+Fehler feːlɐ m
+Strom ʃtʁoːm m
+Ergebnis ɛɐ̯ˈɡeːpnɪs n
+Autor ˈaʊ̯toːɐ̯ m
+Trinkgeld ˈtʀɪŋkɡɛlt n
+Zehe ˈt͡seːə m
+Jahreszeit ˈjaːʀəsˌt͡saɪ̯t f
+Hälfte ˈhɛlftə f
+Dummkopf ˈdʊmkɔpf m
+Tunnel ˈtʊnəl m
+Garage ɡaˈʁaːʒə f
+Chef ʃɛf m
+Kugel ˈkuːɡəl f
+Markt maʁkt m
+Reihe ˈʀaɪ̯ə f
+Stift ˈʃtɪft m
+Begriff bəˈɡʀɪf m
+Gedicht -ɪçt n
+Prinz pʀɪnt͡s m
+Ton toːn m
+Schloss ʃlɔs n
+Realität ˌʁea̯liˈtɛːt f
+Schlange ˈʃlaŋə m
+Apfel ˈapfəl m
+Maske ˈmaskə f
+Kunden ˈkʊndən f
+Geburt ɡəˈbuːɐ̯t f
+Pause ˈpaʊ̯zə f
+Wunder ˈvʊndəʁ n
+Sonnenlicht ˈzɔnənlɪçt n
+Panzer ˈpantsɐ m
+Personal -aːl n
+Lüge ˈlyːɡə f
+Glaube ˈɡlaʊ̯bə m
+Ehre ˈeːʁə f
+Creme kʁɛːm f
+Opfer ˈɔpfɐ n
+Möglichkeit ˈmøːklɪçˌkaɪ̯t f
+Kontakt kɔnˈtakt m
+Daumen ˈdaʊ̯mən m
+Spaß ʃpaːs m
+Kerze ˈkɛʁtsə f
+Höhle ˈhøːlə f
+Post pɔst f
+Gefängnis ɡəˈfɛŋnɪs n
+Emotion emoˈtsioːn f
+Führer ˈfjʊəɹə m
+Grad ˈɡɹɑd m
+Eigenschaft ˈʔaɪ̯ɡn̩ʃaːft f
+Wüste ˈvyːstə f
+Schnitt ʃnɪt m
+Unordnung ˈʔʊnˌʔoʁdnʊŋ f
+Warnung ˈvaʁnʊŋ f
+Märchen ˈmɛɐ̯çn̩ f
+Begräbnis bəˈɡʀɛːpnɪs n
+Taxi ˈtaksi m
+Reporter ʁeˈpɔʁtəʁ m
+Geschenk ɡəˈʃɛŋk n
+Theater teˈaːtɐ n
+Länge ˈlɛŋə f
+Schlamm ʃlam m
+Wissenschaft ˈvɪsənʃaft m
+Fall fal m
+Schnur ʃnuːr f
+Rede ˈreːdə f
+Kopie koˈpiː f
+Kuh kuː f
+Arbeiter ˈʔaʁbaɪ̯tɐ m
+Oberschenkel ˈoːbɐˌʃɛŋkl̩ m
+Labor laˈboːɐ̯ n
+Rolle ˈʁɔlə m
+Obst oːpst n
+Seide ˈzaɪ̯də f
+Buck bʌk m
+Ziegel ˈt͡siːɡəl m
+Gewehr ɡəˈveːɐ̯ n
+Thema ˈteːma n
+Gelegenheit ɡəˈleːɡŋ̩haɪ̯t f
+Direktor diˈʀɛktoːɐ̯ m
+Fahrzeug ˈfaː(ɐ̯)tsɔʏ̯k n
+Gasse ˈɡasə m
+Hülse ˈhʏlzə f
+Grab ɡʁaːp m
+Busch bʊʃ m
+Eröffnung ʔɛɐ̯ˈʔœfnʊŋ f
+Zwilling ˈt͡svɪlɪŋ m
+Scheune ˈʃɔʏ̯nə f
+Pfund pfʊnt n
+Blitz blɪts m
+Richter ˈɹɪkt.ə m
+Masse ˈmasə f
+Prozess pʁoˈt͡sɛs m
+Band bant m
+Rohr ʀoːɐ̯ n
+Drache ˈdʁaxə m
+Horizont hoʁiˈt͡sɔnt m
+Schale ˈʃaːlə f
+Umschlag ʊmʃlaːk m
+Prüfung ˈpʀyːfʊŋ f
+Erwachsene ɛɐ̯ˈvaksənə m
+Notfall ˈnoːtfal m
+Material ma.tʰ(ə)ri.aːl n
+Künstler ˈkʏnstlɐ m
+Adresse aˈdʀæs f
+Duft dʊft m
+Universum uniˈvɛʀzʊm n
+Muschel ˈmʊʃəl f
+Gemeinde ɡəˈmaɪ̯ndə f
+Anfang ˈanfaŋ m
+Maus maʊ̯s f
+Pilot -oːt m
+Klasse ˈklasə f
+Korb kɔrp m
+Wagen ˈvaːɡən m
+Versuch fɛɐ̯ˈzuːx m
+Sofa ˈzoːfa n
+Kuchen ˈkuːxən m
+Kerl kɛʁl m
+Affäre aˈfɛːʀə f
+Küste ˈkʏstə f
+Ursprung ˈuːɐ̯ʃpʁʊŋ m
+Sorge ˈzɔʁɡə f
+Presse ˈpʀɛsə f
+Ratte ˈʁatə f
+Gesellschaft ɡəˈzɛlʃaft f
+Stil stiːl m
+Kreis kraɪ̯s m
+Befehl bəˈfeːl m
+Model ˈmɔ.dl̩ n
+Kammer ˈkamɐ f
+Biest biːst n
+Bündel ˈbʏndl̩ n
+Einheit ˈaɪ̯nhaɪ̯t f
+Möbel ˈmøːbl̩ n
+Nagel ˈnaːɡl̩ m
+Schrei ʃʀaɪ̯ m
+Eigenschaft ˈʔaɪ̯ɡn̩ʃaːft f
+Ausrüstung ˈaʊ̯sˌʀʏstʊŋ f
+Griff ɡʀɪf m
+Rohr ʀoːɐ̯ n
+Asche ˈaʃə f
+Fan fɛn m
+Daten ˈdaːt(ə)n n
+Verbindung fɛɐ̯ˈbɪndʊŋ f
+Trick tʀɪk m
+Schreiben ˈʃʀaɪ̯bm̩ n
+Süßigkeit ˈzyːsɪçˌkaɪ̯t f
+Gesundheit ɡəˈzʊntˌhaɪ̯t f
+Sicherheit ˈzɪçɐhaɪ̯t f
+Höhe ˈhøːə f
+Erscheinung ɛɐ̯ˈʃaɪ̯nʊŋ f
+Mine ˈmiːnə f
+Kleidung ˈklaɪ̯dʊŋ f
+Quelle ˈkvɛlə f
+Pistole pɪsˈtoːlə f
+Flughafen ˈfluːkˌhaːfɱ̩ m
+Held hɛlt m
+Versprechen fɛɐ̯ˈʃpʁɛçən n
+Bogen ˈboːɡən m
+Zelt -ɛlt f
+Geld ɡɛlt n
+Straße ˈʃtrɑːsə f
+Teppich ˈtɛpɪç m
+Keller ˈkɛlɐ m
+Freundin ˈfʁɔʏ̯ndɪn f
+Bart -ɑː(r)t m
+Stirn ʃtɪʁn f
+Signal zɪˈɡnaːl n
+Diener ˈdiːnəʁ m
+Zweifel ˈt͡svaɪ̯fl̩ m
+Magie -iː f
+Hank hæŋk m
+Glied ɡliːt n
+Schädel ˈʃɛːdəl m
+Satz zats m
+Kragen ˈkʁaːɡən m
+Horn hɔrn m
+Eiche ˈaɪ̯çə m
+Knöchel ˈknœ.çl̩ m
+Sandwich ˈsɛndvɪt͡ʃ m
+Rotkehlchen ˈʁoːtˌkeːlçən n
+Justiz jʊsˈtiːts m
+Stolz ʃtɔlt͡s m
+Jugend ˈjuːɡənt f
+Forschung ˈfɔʁʃʊŋ f
+Sport ʃpɔʁt m
+Aufgabe ˈʔaʊ̯fˌɡaːbə m
+Chip tʃɪp m
+Theorie te.oˈʁiː f
+Wecker ˈvɛkɐ m
+Sammlung ˈzamlʊŋ f
+Kreuz ˈkʁɔʏ̯ts n
+Kiefer ˈkiːfɐ m
+Generation ˌɡeːnəʁaˈt͡si̯oːn f
+Autorität ˌaʊ̯toʁiˈtɛːt f
+Papa 'pæpə m
+Reise ˈʁaɪ̯zə f
+Toilette to̯aˈlɛtə f
+Mörder ˈmœʁdɐ m
+Werkzeug ˈvɛʁkˌtsɔʏ̯k n
+Medizin me.di.ˈt͡siːn f
+Zucker ˈtsʊkɐ m
+Prinzessin pʀɪnˈt͡sɛsɪn f
+Argument arɡuˈmɛnt n
+Klippe ˈklɪpə m
+Wagen ˈvaːɡən m
+Kristall -al m
+Bohne ˈboː.nə f
+Käfig ˈkɛːfɪç m
+Schokolade ʃokoˈlaːdə f
+Küste ˈkʏstə f
+Jahrzehnt ja(ːɐ̯)ˈtseːnt n
+Bedeutung bəˈdɔʏ̯tʊŋ m
+Getriebe ɡəˈtʀiːbə n
+Koffer ˈkɔfɐ m
+Operation ɔˌpəʀaˈt͡sioːn f
+Atem ˈaːtəm m
+Rolle ˈʁɔlə m
+Version vɛɐ̯ˈzi̯oːn f
+Strahl ʃtʁaːl m
+Burg bʊʁk f
+Pol ˈpɔl m
+Freiheit ˈfʀaɪ̯haɪ̯t f
+Leidenschaft ˈlaɪ̯dn̩ʃaft f
+Teufel ˈtɔʏ̯fəl m
+Salz zal(t)s n
+Fahrrad ˈfaːɐ̯ˌʁa(ː)t n
+Stapel ˈʃtaːpl̩ m
+Begleiter bəˈɡlaɪ̯tɐ m
+Schicksal ˈʃɪkza(ː)l n
+Wut vuːt f
+Wal vaːl m
+Schwein ʃʋɛi̯n n
+Hase ˈhaːzə m
+Gang ɡaŋ(k) m
+Helm hælm m
+Aufregung ˈaʊ̯fʀeːɡʊŋ f
+Lobby ˈlɔbi f
+Freund frɔʏ̯nt m
+Fell fɛl n
+Bereich bəˈʀaɪ̯ç m
+Dick dɪk m
+Code koʊd m
+Kapitel kaˈpɪtəl n
+Reflexion reflɛkˈsi̯oːn f
+Post pɔst f
+Flug fluːk m
+Kabinett -ɛt n
+Spielzeug ˈʃpiːlˌt͡sɔʏk n
+Baseball ˈbeɪsbɔːl m
+Geschwindigkeit ɡəˈʃvɪndɪçkaɪ̯t f
+Griff ɡʀɪf m
+Führung ˈfyːʀʊŋ f
+Nerv nɛʁf m
+Pullover pʊˈloːvɐ m
+Qualität ˌkvaliˈtɛːt f
+Jäger ˈjeɪ.ɡɚ m
+Farbe ˈfaʁbə f
+Buster ˈbʌstɚ f
+Baumwolle ˈbaʊ̯mvɔlə f
+Kredit kʁeˈdiːt m
+Schlag ʃlaːk m
+Teufel ˈtɔʏ̯fəl m
+Erfolg ɛʁˈfɔlk m
+Vorabend ˈfoːɐ̯ˌaːbənt m
+Kabel ˈkaːbəl n
+Pfanne ˈ(p)fanə f
+Titel ˈtiːtl m
+Schande ˈʃandə f
+Nadel ˈnaːdl̩ f
+Lunge ˈlʊŋə f
+Krieger ˈkʁiːɡɐ m
+Panik ˈpaːnɪk f
+Bauer ˈbaʊ̯ɐ m
+Bombe ˈbɔmbə f
+Platte -atə f
+Glück ɡlʏk n
+Sieger ˈziːɡɐ m
+Feder ˈfeːdəʁ f
+Oma ˈoːma f
+Verhalten fɛɐ̯ˈhaltn̩ n
+Durchgang ˈdʊʁçˌɡaŋ m
+Leutnant ˈlɔʏ̯tnant m
+Lauf -aʊ̯f m
+Eindruck ˈaindrʊk m
+Maurer ˈmaʊ̯ʀɐ m
+Braut bʁaʊ̯t f
+Paket paˈkeːt n
+Nebel ˈneːbl̩ m
+Gehen ˈɡeːən n
+Balance ba.lɑ̃s f
+Socke ˈzɔkə f
+Roboter ˈʁɔbɔtɐ m
+Kartoffel kaʁˈtɔfəl f
+Gegenstand ˈɡeːɡŋ̩ʃtant m
+Bad baːt n
+Diamant ˌdiaˈmant m
+Leiche ˈlaɪ̯çə f
+Erklärung ʔɛɐ̯ˈklɛːʁʊŋ f
+Struktur ʃtʀʊkˈtuːɐ̯ f
+Ausgang ˈʔaʊ̯sɡaŋ m
+Pad paːt m
+Herd heːɐ̯t m
+Amerikaner ameʁiˈkaːnɐ m
+Blitz blɪts m
+Grube ˈɡʀuːbə f
+Dock dɔk n
+Bach bɑːx m
+Trauer ˈtʀaʊ̯ɐ m
+Verteidigung fɛɐ̯ˈtaɪ̯dɪɡʊŋ f
+Biss bɪs m
+Museum muˈzeːʊm n
+Gunst ɡʊnst f
+Abendessen ˈʔaːbəntˌʔɛsən n
+Komfort kɔmˈfoːr m
+Dekan -aːn m
+Wert vɛʁt m
+Marsch maʁʃ m
+Poet poˈ(ʔ)eːt m
+Suppe ˈzʊpə f
+Nation naˈt͡si̯oːn f
+Sack -ak m
+Dämon ˈdɛːmɔn m
+Saft zaft m
+Pinsel ˈpɪnzl̩ m
+Route ˈʁuːtə f
+Käse kɛːzə m
+Haube ˈhaʊ̯bə f
+Ente ˈɛntə f
+Heilige ˈhaɪ̯lɪɡə f
+Pass pas m
+Ziel tsiːl n
+Orange ˈɒ.ɹɪndʒ m
+Kultur kʊlˈtuːɐ̯ f
+Reise ˈʁaɪ̯zə f
+Haken ˈhaːkŋ̩ m
+Nebel ˈneːbl̩ m
+Training ˈtrɛːnɪŋ n
+Münze ˈmʏnt͡sə f
+Wunder ˈvʊndəʁ n
+Austausch ˈaʊ̯sˌtaʊ̯ʃ m
+Teich taɪ̯ç m
+Assistent asɪstˈɛnt m
+Design -aɪ̯n m
+Angel ˈeɪn.dʒəl m
+Graf ɡraːf m
+Kommentar kɔmɛnˈtaːɐ̯ m
+Kellner ˈkɛlnɐ m
+Lebensmittel ˈleːbm̩sˌmɪtl̩ n
+Leiter ˈlaɪ̯tɐ m
+Volumen voˈluːmən n
+Risiko ˈʁiːziko m
+Albtraum ˈalptʁaʊ̯m m
+Spur ʃpuːɐ̯ f
+Krankheit ˈkʁaŋkˌhaɪ̯t f
+Zeuge ˈt͡sɔɪ̯ɡə m
+Aktie ˈak.tsi̯ə f
+Gerät ɡəˈʁɛːt n
+Landschaft ˈlantʃaft f
+Urlaub ˈʔuːɐ̯laʊ̯p m
+Ass ʔas m
+Klavier klaˈviːɐ̯ n
+Eingeweide ˈaɪ̯nɡəvaɪ̯də n
+Talent taˈlɛnt n
+Deckel ˈdɛkl̩ m
+Hinweis ˈhɪnvaɪ̯s m
+Kälte ˈkɛltə f
+Studie ˈʃtuːdi̯ə f
+Interview ˈɪntɐˌvjuː n
+Ansatz ˈanzats m
+Narbe ˈnaʁbə f
+Kanal kaˈnaːl m
+Tritt -ɪt m
+Aufnehmer ˈaʊ̯fˌneːmɐ m
+Habicht ˈhaːbɪçt m
+Anhänger ˈanˌhɛŋɐ m
+Statue ˈʃtaːtuɐ̯ f
+Pille ˈpɪlə f
+Käfer ˈkɛː.fɐ m
+Eimer ˈʔaɪ̯mɐ m
+Urlaub ˈʔuːɐ̯laʊ̯p m
+Kolumne koˈlʊmnə f
+Schaden ˈʃɑː.d(ə)n m
+Hafen ˈhaːfɱ̩ m
+Schicht ʃɪçt f
+Streifen ˈʃtʀaɪ̯fn̩ m
+Müll mʏl m
+Rippe ˈʀɪ.pə f
+Notebook ˈnoːtbʊk n
+Mais maɪ̯s m
+Angebot ˈʔanɡəboːt n
+Zeichnung ˈt͡saɪ̯çnʊŋ f
+Entschuldigung ɛntˈʃʊldiɡʊŋ f
+Stange ˈʃtaŋə f
+Fantasie fantaˈziː f
+Neugier ˈnɔʏ̯ˌɡiːɐ̯ f
+Kleid klaɪ̯t n
+Grenze ˈɡʁɛntsə f
+Poesie ˌpoeˈzi f
+Firma fɪrma f
+Aufgang ˈaʊ̯fˌɡaŋ m
+China ˈt͡ʃaɪnə m
+Franzosen ˌfʀanˈtsoːzn̩ m
+Reh ʀeː n
+Druck dʁʊk m
+Schiene ˈʃiːnə f
+Rate ˈʀaːtə f
+Mut muːt m
+Ankunft ˈankʊnft f
+Wunsch vʊnʃ m
+Grat ɡʀaːt m
+Idiot iˈdi̯oːt m
+Bulle ˈbʊlə m
+Saat zaːt f
+Fortschritt ˈfɔʁtˌʃʀɪt m
+Gefühl ɡəˈfyːl f
+Bürger ˈbʏʁɡɐ m
+Müll mʏl m
+Geduld ɡəˈdʊlt f
+Fledermaus ˈfleːdɐˌmaʊ̯s f
+Fußball ˈfuːsˌbal m
+Inhalt ˈɪnˌhalt m
+Wissenschaftler ˈvɪsn̩ʃaftlɐ m
+Sünde ˈzʏndə f
+Hintern ˈhɪntɐn m
+Kühlschrank ˈkyːlˌʃʀaŋk m
+Herr hɛʁ m
+Taschenlampe ˈtaʃn̩ˌlampə f
+Internet ˈɪntəˌnɛt m
+Seemann ˈzeːman m
+Weinen ˈvaɪ̯nən m
+Reise ˈʁaɪ̯zə f
+Keks keːks m
+Flucht flʊxt f
+Gewebe ɡəˈveːbə n
+Marmor ˈmaʁmoːɐ̯ m
+Blick blɪk m
+Dämmerung ˈdɛməʀʊŋ f
+Hütte ˈhʏtə f
+Affe ˈafə m
+Doc dɒk m
+Dampf dampf m
+Satz zats m
+Mutter ˈmʊtɐ m
+Bleistift ˈblaɪ̯ʃtɪft m
+Koch koʊk m
+Flagge ˈflaɡə f
+Schaukel ˈʃaʊ̯kəl f
+Lautsprecher ˈlaʊ̯tˌʃpʁɛçɐ m
+Bolzen ˈbɔlt͡sn̩ m
+Fett fɛt n
+Teppich ˈtɛpɪç m
+Zauber ˈtsaʊ̯bɐ m
+Taxi ˈtaksi m
+Runde ˈʀʊndə f
+Strohhalm ˈʃtʁoː.halm m
+Luke luk m
+Gabel ˈɡaːbəl f
+Dienstmädchen ˈdiːnstˌmɛːtçən n
+Hexe ˈhɛk.sə f
+Hof hoːf m
+Blase -aːzə f
+Leser ˈleːzɐ m
+Locke ˈlɒk f
+Kuchen ˈkuːxən m
+Strahl ʃtʁaːl m
+Union uˈni̯oːn f
+Teenager ˈtiːnˌɛɪ̯.dʒɐ m
+Ebene ˈʔeːbənə f
+Kellnerin ˈkɛlnəʀɪn f
+Antwort ˈantvɔʁt f
+Gerücht ɡəˈʁʏçt n
+Zuflucht ˈt͡suːˌflʊxt m
+Abenteuer ˈaːbəntɔʏ̯ɐ n
+Löwe ˈløːvə m
+Vertrauen fɛɐ̯ˈtʀaʊ̯ən n
+Reichweite ˈʀaɪ̯çˌvaɪ̯tə f
+Hammer ˈhamɐ m
+Bibel ˈbiːbl̩ f
+Vertrag fɛɐ̯ˈtʁaːk m
+Dschungel ˈ(d)ʒʊŋəl m
+Fabrik faˈbʀiːk f
+Balkon balˈkɔŋ m
+Reis ʀaɪ̯s m
+Knoten ˈknoːtən m
+Schnur ʃnuːr f
+Kollege kɔˈleːɡə m
+Absicht ˈapzɪçt f
+Stare ˈʃtaːʀə f
+Motel moˈtɛl n
+Anwalt ˈanvalt m
+Diskussion dɪskʊˈsi̯oːn f
+Atmosphäre ʔatmoˈsfɛːʀə f
+Leistung ˈlaɪ̯stʊŋ f
+Spannung ˈʃpanʊŋ f
+Text tɛkst m
+Strang -aŋ m
+Vene ˈveːnə f
+Experte ɛksˈpɛʁtə m
+Gruppe ˈɡʁʊpə f
+Polizist poliˈt͡sɪst m
+Krebs kʁeːps m
+Fuchs fjuːks m
+Impuls ɪmˈpʊls m
+Gewalt ɡəˈvalt f
+Humor huˈmoːɐ̯ m
+Stuhl ʃtuːl m
+Kies -iːs m
+Schatz ʃats m
+Butter ˈbʊtɐ f
+Schalter ˈʃaltɐ m
+Leinwand ˈlaɪ̯nvant f
+Führer ˈfjʊəɹə m
+Stift ˈʃtɪft m
+Schauspieler ˈʃaʊ̯ˌʃpiːlɐ m
+Ganze ˈɡantsə n
+Gastgeber ˈɡastˌɡeːbɐ m
+Schal ʃaːl m
+Beweis bəˈvaɪ̯s m
+Pfeil pfaɪ̯l m
+Temperatur ˌtɛm.pə.ʁaˈtuːɐ̯ f
+Technologie tɛç.no.loˈɡiː f
+Erlaubnis ɛɐ̯ˈlaʊ̯pnɪs f
+Ort (ʔ)ɔʁt m
+Agentur aɡɛnˈtuːɐ̯ f
+Jagd jaːkt f
+Gemüse ɡəˈmyːzə n
+Dose ˈdoːzə f
+Hubschrauber ˈhuːpˌʃʁao̯bɐ m
+Falle ˈfalə f
+Pat pæt m
+Lücke ˈlʏkə f
+Haustier ˈhaʊ̯stiːɐ̯ m
+Bildung ˈbɪldʊŋ f
+Erde ˈeːɐ̯də f
+Herzog ˈhɛʁˌt͡soːk m
+Schrotflinte ˈʃʀoːtflɪntə f
+Vorstellung ˈfoːɐ̯ʃtɛlʊŋ f
+Zeremonie t͡seʁemoˈniː f
+Löffel ˈløfːəl m
+Wanne ˈvanə f
+Schlüssel ˈʃlʏsl̩ m
+Iris ˈi.ris m
+Vorfall ˈfoːɐ̯fal m
+Absturz ˈapʃtʊʁts m
+Tagebuch ˈtaːɡəˌbuːχ n
+Mama ˈmama f
+Schaf ʃɑːf m
+Ingenieur ˌɪnʒeˈnjøːɐ̯ m
+Rumpf ʁʊm(p)f m
+Geruch ɡəˈʁʊχ m
+Termin tɛʁˈmiːn m
+Lappen ˈlapən m
+Kumpel ˈkʊmpl̩ m
+Behandlung bəˈhandlʊŋ f
+Weisheit ˈvaɪ̯shaɪ̯t f
+Preis pʁaɪ̯s m
+Element eleˈmɛnt n
+Gigant -ant m
+Wäsche ˈvɛʃə f
+Option ɔpˈtsi̯oːn f
+Regal ʁeˈɡaːl n
+Gefängnis ɡəˈfɛŋnɪs n
+Opa ˈoːpa m
+Punkt pʊŋ(k)t m
+Skript skʁɪpt n
+Übung ˈʔyːbʊŋ f
+Witwe ˈvɪtvə f
+Krähe ˈkʀɛːə m
+Selbstmord ˈzɛlps(t)ˌmɔʁt m
+Notiz noˈtiːts f
+Sonnenuntergang ˈzɔnənʔʊntɐɡaŋ m
+Schiff ʃɪf n
+Donner ˈdɔnɐ m
+Seife ˈzaɪ̯fə f
+Whisky ˈvɪski m
+Weibchen ˈvaɪ̯pçən n
+Bürgermeister ˈbʏʁɡɐˌmaɪ̯stɐ m
+Klick klɪk m
+Müller ˈmʏlɐ m
+Rat ʀaːt m
+Friedhof ˈfʀiːtˌhoːf m
+Kampf kam(p)f m
+Ruhe ˈʁuːə f
+Nest nɛst n
+Limit ˈlɪmɪt n
+Mönch mœnç m
+Hütte ˈhʏtə f
+Versicherung fɛɐ̯ˈzɪçəʀʊŋ f
+Matratze maˈtʁatsə f
+Mann -æn m
+Becher ˈbɛçɐ m
+Kit -ɪt m
+Kommunikation komunikaˈt͡si̯oːn f
+Unglück ˈʊnˌɡlʏk n
+Fliese ˈfliːzə f
+Empfänger ɛmˈpfɛŋɐ m
+Truppe ˈtʀʊpə f
+Sarg sark m
+Freundschaft ˈfʀɔɪ̯ntʃaft f
+Ermittlung ɛɐ̯ˈmɪtlʊŋ f
+Verkauf fɛɐ̯ˈkaʊ̯f m
+Ziel tsiːl n
+Mondlicht -ɪçt n
+Mündel ˈmʏndl̩ m
+Hosen ˈhoːzn̩ m
+Wolle ˈvɔlə f
+Mac mat͡ʃ f
+Minister mɪˈnɪstɐ m
+Eintritt ˈaɪ̯ntrɪt m
+Dieb diːp m
+Aktentasche ˈaktn̩ˌtaʃə f
+Mitleid ˈmɪtlaɪ̯t n
+Finger ˈfɪŋɐ m
+Insekt ɪnˈzɛkt n
+Samt zamt m
+Stock ʃtɔk m
+Gen ˈɡeːn n
+Salat zaˈlaːt m
+Windschutzscheibe ˈvɪntʃʊt͡sˌʃaɪ̯bə f
+Schrei ʃʀaɪ̯ m
+Wut vuːt f
+Zufriedenheit tsuˈfʁiːdn̩haɪ̯t f
+Motor ˈmoːtoːɐ̯ m
+Produkt pʀoˈdʊkt n
+Unkraut ˈʔʊnkʀaʊ̯t n
+Kapital kapiˈtaːl n
+Rand ʁant m
+Pfote ˈpfoːtə f
+Festung ˈfɛstʊŋ f
+Plakat plaˈkaːt n
+Vampir vamˈpiːɐ̯ m
+Welle ˈvɛlə f
+Arschloch ˈaʁʃlɔx n
+Gurt ɡʊʁt m
+Hafen ˈhaːfɱ̩ m
+Beispiel ˈbaɪ̯ʃpiːl n
+Netz næt͡s n
+Golf ɡɔlf m
+Mist ˈmɪst m
+Freude ˈfʀɔʏ̯də f
+Decke ˈdɛkə f
+Steuer ˈʃtɔɪ̯ɐ f
+Falte -altə f
+Porträt pɔrˈtrɛː n
+Gewebe ɡəˈveːbə n
+Glaube ˈɡlaʊ̯bə m
+Kostüm kɔsˈtyːm n
+Maß maːs f
+Wagen ˈvaːɡən m
+Gitarre ɡiˈtaʁə f
+Ritter ˈʁɪtɐ m
+Rang ʀaŋ m
+Bürgermeister ˈbʏʁɡɐˌmaɪ̯stɐ m
+Brunnen ˈbʁʊnən m
+Stall ʃtal m
+Funke ˈfʊŋkə m
+Müll mʏl m
+Champagner ʃamˈpanjɐ m
+Viertel ˈfɪʁtəl n
+Schutz ʃʊt͡s m
+Urteil ˈʊʁtaɪ̯l n
+Sympathie ˌzʏmpaˈtiː f
+Violett vi̯oˈlɛt n
+Bewusstsein bəˈvʊstzaɪ̯n n
+Taschentuch ˈtaʃənˌtuːx n
+Parfüm parˈfyːm n
+Anspruch ˈanˌʃpʀʊχ m
+Nonne ˈnɔnə f
+Krone ˈkʀoːnə f
+Lizenz liˈtsɛn(t)s f
+Barmherzigkeit baʁmˈhɛʁt͡sɪçkaɪ̯t f
+Ballon baˈlɔŋ m
+Chaos ˈkaːɔs m
+Fieber ˈfiːbɐ n
+Schließfach ˈʃliːsˌfaχ n
+Spitzer ˈʃpɪtsɐ m
+Trommel ˈtʀɔml̩ f
+Fokus ˈfoːkʊs m
+Frosch fʀɔʃ m
+Bemerkung bəˈmɛʁkʊŋ f
+Gezeiten ɡəˈtsaɪ̯tən f
+Verdacht fɛɐ̯.ˈdaχt m
+Jeep dʒiːp m
+Sorge ˈzɔʁɡə f
+Literatur lɪtəʀaˈtuːɐ̯ f
+Bogenschütze ˈboː.ɡŋ̩ˌʃʏ.t͡ʃə m
+Haushalt ˈhaʊ̯shalt m
+Pulver ˈpʊlvɐ n
+Hirte ˈhɪʁtə m
+Linse ˈlɪnzə f
+Favorit ˌfavoˈʁiːt m
+Boom boːm m
+Spitze ˈʃpɪt͡sə f
+Überprüfung yːbɐˈpʁyːfʊŋ f
+Schrott ʃʁɔt m
+Wulst vʊlst m
+Strömung ˈʃtʀøːmʊŋ f
+Status ˈʃtaːtʊs m
+Rakete ʀaˈkeːtə f
+Schlucht ʃlʊχt f
+Trauer ˈtʀaʊ̯ɐ m
+Persönlichkeit pɛʁˈzøːnlɪçˌkaɪ̯t f
+Campus ˈkampʊs m
+Fluch fluːx m
+Drang dʁaŋ m
+Frustration fʀʊstʀaˈtsi̯oːn f
+Pumpe ˈpʊmpə f
+Zählung ˈtsɛːlʊŋ f
+Lösung ˈløːzʊŋ f
+Schmuck ʃmʊkʰ m
+Sirene ˌziˈʀeːnə f
+Schlag ʃlaːk m
+Tradition tʁadiˈt͡si̯oːn f
+Vielfalt ˈfiːlˌfalt f
+Pirat piˈʁaːt m
+Beschreibung bəˈʃʁaɪ̯bʊŋ f
+Liebe ˈliːbə f
+Angst ʔaŋst f
+Pizza ˈpɪtsa f
+Elefant eleˈfant m
+Politik poliˈtiːk f
+Tennis ˈtɛnɪs m
+Hunger ˈhʊŋɐ m
+Genie ʒeˈniː m
+Ziege ˈt͡siːɡə m
+Sieg ziːk m
+Umhang ˈʊmˌhaŋ m
+Sauerstoff ˈzaʊ̯ɐʃtɔf m
+Bischof ˈbɪʃɔf m
+Bündel ˈbʏndl̩ n
+Fingernagel ˈfɪŋɐnaːɡl̩ m
+Fahrer ˈfaːʁɐ m
+Umlaufbahn ˈʔʊmlaʊ̯fˌbaːn f
+Weinstock ˈvaɪnʃtɔk m
+Suite sviːt f
+Koks koːks m
+Melodie meloˈdiː f
+Herrlichkeit ˈhɛʁlɪçkaɪ̯t f
+Rabbi ˈʀabi m
+Operation ɔˌpəʀaˈt͡sioːn f
+Vieh fiː n
+Begrüßung bəˈɡʀyːsʊŋ f
+Scheibe ˈʃaɪ̯bə f
+Homer ˈhəʊmə m
+Kamin kaˈmiːn m
+Trikot tʁiˈkoː n
+Medien ˈmeːdi̯ən n
+Pop pɒp n
+Fracht fraxt f
+Gasthaus ˈɡasthaʊ̯s n
+Verzweiflung fɛɐ̯ˈt͡svaɪ̯flʊŋ f
+Territorium tɛʀiˈtoːʀiʊm n
+Schlag ʃlaːk m
+Jazz d͡ʒɛs m
+Pfeife ˈpfaɪ̯fə f
+Menschlichkeit ˈmɛnʃlɪçkaɪ̯t f
+Handwerk ˈhantvɛʁk n
+Tageslicht ˈtaːɡəslɪçt n
+Wert vɛʁt m
+Slip slɪp m
+Rucksack ˈʀʊkzak m
+Vorschlag ˈfoːɐ̯ʃlaːk m
+Höhle ˈhøːlə f
+Symbol zʏmˈboːl n
+Kolonie -iː f
+Fazit ˈfaːt͡sit n
+Nasenloch ˈnaːzənˌlɔχ n
+Speer -eːɐ̯ m
+Impuls ɪmˈpʊls m
+Tomate toˈmaːtə f
+Kalb kalp n
+Herbst hɛʁpst m
+Fund fʊnt m
+Lieferung ˈliːfəʀʊŋ f
+Kraftstoff ˈkʀaftˌʃtɔf m
+Unterwäsche ˈʊntɐvɛʃə f
+Kuppel ˈkʊpl̩ f
+Bevölkerung bəˈfœlkəʁʊŋ f
+Religion reliˈɡjoːn m
+Sänger ˈzɛŋɐ m
+Begleiter bəˈɡlaɪ̯tɐ m
+Link lɪŋk m
+Achselzucken ˈaksl̩ˌt͡sʊkn̩ n
+Zone ˈtsoːnə f
+Standard ˈstandart m
+Kohlen ˈkoːlən m
+Jagd jaːkt f
+Klumpen ˈklʊmpən m
+Legende leˈɡɛn.də f
+Konsequenz kɔnzeˈkvɛnt͡s f
+Beobachtung bəˈʔoːbaxtʊŋ f
+Fahrrad ˈfaːɐ̯ˌʁa(ː)t n
+Schaden ˈʃɑː.d(ə)n m
+Muster ˈmʊstɐ n
+Händler ˈhɛndlɐ m
+Eile ˈaɪ̯lə f
+Geliebte ɡəˈliːptə f
+Hügel ˈhyːɡl̩ m
+Unsinn ˈʊnzɪn m
+Echo ˈɛkoʊ f
+Warenhaus ˈvaːʀənhaʊ̯s n
+Kampf kam(p)f m
+Toast toːst m
+Einrichtung ˈʔaɪ̯nʀɪçtʊŋ f
+Basketball ˈbaːskətˌbal m
+Schnurrbart ˈʃnʊʁˌbaːɐ̯t m
+Begeisterung bəˈɡaɪ̯stəʀʊŋ f
+Schildkröte ˈʃɪltˌkʀøːtə f
+Alkohol ˈalkoho(ː)l m
+Gummi ˈɡʊmi m
+Besitz bəˈzɪts m
+Leinen ˈlaɪ̯nən n
+Entschuldigung ɛntˈʃʊldiɡʊŋ f
+Stein ʃtaɪn m
+Heap hiːp m
+Fotograf fotoˈɡʀaːf m
+Bremse ˈbʁɛmzə f
+Schürze ˈʃʏʁtsə f
+Mantel ˈmantəl m
+Kiste ˈkɪstə f
+Methode meˈtoːdə f
+Ekel ˈeːkəl m
+Flotte ˈflɔtə f
+Lippenstift ˈlɪpm̩ˌʃtɪft m
+Kern kɝn m
+Container kɔnˈtɛːnɐ m
+Hure ˈhuːʁə m
+Kleinkind ˈklaɪ̯nˌkɪnt n
+Schlauch ʃlaʊ̯x m
+Konzert kɔnˈtsɛɐ̯t n
+Eisenbahn ˈaɪ̯zənˌbaːn f
+Parade -aːdə f
+Fach fax n
+Bewohner bəˈvoːnɐ m
+Techniker ˈtɛçnikɐ m
+Verfahren fɛɐ̯ˈfaːʀən n
+Kämpfer ˈkʰɛmpfɐ m
+Korn kɔʁn m
+Stamm ʃtam m
+Knospe ˈknɔspə m
+Wiese ˈviːzə f
+Gift ɡɪft f
+Büffel ˈbʏfl̩ m
+Rennen ˈʁɛnən n
+Schlaf ʃlaːf m
+Eule ˈʔɔʏ̯lə m
+Menü meˈnyː n
+Kick kɪk m
+Ruine ruʔˈiːnə f
+Streifen ˈʃtʀaɪ̯fn̩ m
+Büro byˈʀoː n
+Gans ɡans f
+Fee feː f
+Krankheit ˈkʁaŋkˌhaɪ̯t f
+Mannschaft ˈmanʃaft f
+Schmetterling ˈʃmɛtɐlɪŋ m
+Reich ɹaɪx m
+Profil -iːl n
+Freiheit ˈfʀaɪ̯haɪ̯t f
+Hain haɪ̯n m
+Schild ʃɪlt m
+Sattel ˈzatl̩ m
+Cluster ˈklastɐ m
+Satellit ˌzatɛˈliːt m
+Welpe ˈvɛlpə m
+Glühbirne ˈɡlyːˌbɪʁnə f
+Patrouille paˈtʁʊljə f
+Adler ˈʔaːdlɐ m
+Herde ˈheːɐ̯də f
+Rollstuhl ˈʀɔlʃtuːl m
+Tabak ˈtaːbak m
+Einstellung ˈaɪ̯nˌʃtɛlʊŋ f
+Last last f
+Händler ˈhɛndlɐ m
+Rutsche ˈʀʊtʃə f
+Fleck flɛk m
+Essen ˈɛsən m
+Bindung ˈbɪndʊŋ f
+Schwimmen ʃvɪmən n
+Verletzung fɛɐ̯ˈlɛt͡sʊŋ f
+Batterie -iː f
+Regenschirm ˈʁeːɡn̩ʃɪɐ̯m m
+Kaiser ˈkaɪzə(ɹ) m
+Pier -iːɐ̯ m
+Wasserhahn ˈvasɐˌhaːn m
+Witz vɪt͡s m
+Dachboden ˈdaxˌboːdən m
+Tiger ˈtiːɡɐ m
+Pal pal m
+Vorfahr ˈfoːɐ̯ˌfaːʀ m
+Konzentration kɔntsɛntʀaˈtsi̯oːn f
+Berg bɛrk m
+Aufwand ˈʔaʊ̯fvant m
+Segen ˈzeːɡən m
+Urlaub ˈʔuːɐ̯laʊ̯p m
+Leiste ˈlaɪ̯stə f
+Fackel ˈfakəl f
+Tinten ˈtɪntn̩ f
+Handlung ˈhandlʊŋ f
+Miete ˈmiːtə f
+Bogen ˈboːɡən m
+Umgebung ʊmˈɡeːbʊŋ f
+Beschwerde bəˈʃveːɐ̯də f
+Krise kʀiːzə f
+Reichtum ˈʀaɪ̯çtuːm m
+Mörder ˈmœʁdɐ m
+Konzept kɔnˈtsɛpt m
+Lamm lam n
+Schritt -ɪt m
+Manschette manˈʃɛtə f
+Jungfrau ˈjʊŋˌfʁaʊ̯ f
+Eichhörnchen  ˈaɪ̯çˌhœʁnçən n
+Kind kɪnt n
+Star ʃtaːɐ̯ m
+Speicher ˈʃpaɪ̯çɐ m
+Altar alˈtaː(ɐ̯) m
+Tragödie tʁaˈɡøːdi̯ə f
+Vertrauen fɛɐ̯ˈtʀaʊ̯ən n
+Bogen ˈboːɡən m
+Königreich ˈkøːnɪkˌʁai̯ç n
+Juwel juˈveːl m
+Musiker ˈmuːzikɐ m
+Flugzeug ˈfluːktsɔʏ̯k m
+Sonnenschein ˈzɔnənʃaɪ̯n m
+Knabe ˈknaːbə m
+Elf ʔɛlf m
+Protest pʁoˈtɛst m
+Jagd jaːkt f
+Exekutive ɛksekuˈtiːvə f
+Tagebuch ˈtaːɡəˌbuːχ n
+Aspekt ʔasˈpɛkt m
+Hausschuh ˈhaʊ̯sʃuː m
+Ameise ˈaː.maɪ̯.zə f
+Rakete ʀaˈkeːtə f
+Intensität ɪntɛnziˈtɛːt f
+Graben ˈɡʀaːbn̩ m
+Gänseblümchen ˈɡɛnzəˌblyːmçn̩ n
+Kapelle kaˈpɛlə f
+Sumpf zʊm(p)f m
+Kran ˈkʁaːn m
+Begegnung bəˈɡeːɡnʊŋ f
+Entwurf ɛntˈvʊʁf m
+Funktion fʊŋkˈtsi̯oːn f
+Organisation ʔɔɐ̯ɡanizaˈtsi̯oːn f
+Skelett skeˈlɛt n
+Kraut kɹaʊt m
+Stumpf ʃtʊm(p)f m
+Einsatz ˈʔaɪ̯nzats m
+Kreation ˌkʁeː.aˈtsjoːn f
+Gefolge ɡəˈfɔlɡə n
+Zauberer ˈt͡saʊ̯bəʀɐ m
+Matte ˈmatə f
+Zwielicht ˈtsviːˌlɪçt n
+Strafe ˈʃtʀaːfə f
+Clan -aːn m
+Kupfer ˈkʊpfɐ n
+Trümmer ˈtʀʏmɐ m
+Maler -ɑːlə(r) m
+Steuer ˈʃtɔɪ̯ɐ f
+Mathematik ˌmatəmaˈtɪk f
+Ziel tsiːl n
+Mühle ˈmyːlə m
+Fehler feːlɐ m
+Thema ˈteːma n
+Terrasse tɛˈrasə f
+Schaufel ˈʃaʊ̯fəl f
+Email eˈmaɪ̯ m
+Taube ˈtaʊ̯.bə m
+Betreiber bəˈtʀaɪ̯bɐ m
+Lift lɪft m
+Versammlung fɛɐ̯ˈzamlʊŋ f
+Prinzip pʁɪnˈtsiːp n
+Küken ˈkyːkən n
+Diagramm -am n
+Kampagne kamˈpanjə f
+Bluterguss ˈbluːt.ɛɐ̯ˌɡʊs m
+Knopf knɔpf m
+Schatz ʃats m
+Oper ˈoːpɐ f
+Pfarrer ˈ(p)fɑʁɐ m
+Schwäche ˈʃvɛçə f
+Metzger ˈmɛtsɡɐ m
