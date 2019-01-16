@@ -17,14 +17,17 @@ chars_vowels_ipa = "ɪɐeoəaɛɨuɔɵiääɑɑæ"
 len_in = len(chars_sonorous)
 len_out = len(genders)
 
-file_nouns = open("de-nouns.txt", "r+") 
+file_nouns = open("ru-nouns.txt", "r+") 
 chars = ""
 
 list_in = []
 list_out = []
 
 for line in file_nouns:
-    _, noun_ipa, gender = line.split()
+    line_split = line.split()
+    noun_ipa = "".join(line_split[1:-1])
+    gender = line_split[-1]
+    print(f"{noun_ipa} {gender}")
     in_ = [noun_ipa.count(char) for char in chars_sonorous]
     out = [int(gender == g) for g in genders]
     list_in.append(in_)
@@ -37,4 +40,4 @@ model.add(keras.layers.Dense(len_out, activation=tf.nn.softmax))
 
 model.compile(optimizer=tf.train.AdamOptimizer(), loss='mean_squared_error', metrics=['accuracy'])
 
-history = model.fit(np.array(list_in), np.array(list_out), epochs=100, verbose=1)
+history = model.fit(np.array(list_in), np.array(list_out), epochs=50, verbose=1)
